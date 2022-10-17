@@ -1,1 +1,1 @@
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mass_Effect_logo.png/799px-Mass_Effect_logo.png)
+![This is an image]([https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mass_Effect_logo.png/799px-Mass_Effect_logo.png](https://pcbuildsonabudget.com/wp-content/uploads/2016/01/the-witcher-3-wild-hunt-banner.png))
