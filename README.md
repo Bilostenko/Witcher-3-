@@ -1,2 +1,2 @@
 
-<h1 align="center"> Data scraping from  fandom website # Witcher 3]([https://bilostenko.github.io/MassEffect/sandbox.html](https://witcher.fandom.com/wiki/Witcher_Wiki))</h1>
+<h1 align="center"> Data scraping from  fandom website # [Mass effect Codex](https://bilostenko.github.io/MassEffect/sandbox.html)</h1>
