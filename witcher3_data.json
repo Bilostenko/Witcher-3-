@@ -1,0 +1,5082 @@
+[
+  {
+    "name": "Armor",
+    "link": "https://witcher.fandom.com/wiki/Armor",
+    "submenu": [
+      {
+        "name": "Alder Folk boots",
+        "link": "/wiki/Alder_Folk_boots"
+      },
+      {
+        "name": "Angrenian cuirass",
+        "link": "/wiki/Angrenian_cuirass"
+      },
+      {
+        "name": "Ard Skellig aketon",
+        "link": "/wiki/Ard_Skellig_aketon"
+      },
+      {
+        "name": "Assassin's boots",
+        "link": "/wiki/Assassin%27s_boots"
+      },
+      {
+        "name": "Assassin's gauntlets",
+        "link": "/wiki/Assassin%27s_gauntlets"
+      },
+      {
+        "name": "Assassin's trousers",
+        "link": "/wiki/Assassin%27s_trousers"
+      },
+      {
+        "name": "Assault gauntlets",
+        "link": "/wiki/Assault_gauntlets"
+      },
+      {
+        "name": "Axeman's boots",
+        "link": "/wiki/Axeman%27s_boots"
+      },
+      {
+        "name": "Axeman's gauntlets",
+        "link": "/wiki/Axeman%27s_gauntlets"
+      },
+      {
+        "name": "Axeman's trousers",
+        "link": "/wiki/Axeman%27s_trousers"
+      },
+      {
+        "name": "Ban Ard breastplate",
+        "link": "/wiki/Ban_Ard_breastplate"
+      },
+      {
+        "name": "Bath towel",
+        "link": "/wiki/Bath_towel"
+      },
+      {
+        "name": "Belhaven brigandine",
+        "link": "/wiki/Belhaven_brigandine"
+      },
+      {
+        "name": "Category:Blood and Wine armor",
+        "link": "/wiki/Category:Blood_and_Wine_armor"
+      },
+      {
+        "name": "Bounty hunter's gambeson",
+        "link": "/wiki/Bounty_hunter%27s_gambeson"
+      },
+      {
+        "name": "Campaigner's boots",
+        "link": "/wiki/Campaigner%27s_boots"
+      },
+      {
+        "name": "Captain's boots",
+        "link": "/wiki/Captain%27s_boots"
+      },
+      {
+        "name": "Cavalry boots",
+        "link": "/wiki/Cavalry_boots"
+      },
+      {
+        "name": "Cavalry gauntlets",
+        "link": "/wiki/Cavalry_gauntlets"
+      },
+      {
+        "name": "Cavalry trousers",
+        "link": "/wiki/Cavalry_trousers"
+      },
+      {
+        "name": "Cidarian cavalry armor",
+        "link": "/wiki/Cidarian_cavalry_armor"
+      },
+      {
+        "name": "Cidarian gambeson",
+        "link": "/wiki/Cidarian_gambeson"
+      },
+      {
+        "name": "Ciri's armor",
+        "link": "/wiki/Ciri%27s_armor"
+      },
+      {
+        "name": "Condottiere's boots",
+        "link": "/wiki/Condottiere%27s_boots"
+      },
+      {
+        "name": "Elegant courtier's doublet",
+        "link": "/wiki/Elegant_courtier%27s_doublet"
+      },
+      {
+        "name": "Elegant Nilfgaardian shoes",
+        "link": "/wiki/Elegant_Nilfgaardian_shoes"
+      },
+      {
+        "name": "Elegant Skellige shirt",
+        "link": "/wiki/Elegant_Skellige_shirt"
+      },
+      {
+        "name": "Enhanced Feline armor",
+        "link": "/wiki/Enhanced_Feline_armor"
+      },
+      {
+        "name": "Enhanced Feline boots",
+        "link": "/wiki/Enhanced_Feline_boots"
+      },
+      {
+        "name": "Enhanced Feline gauntlets",
+        "link": "/wiki/Enhanced_Feline_gauntlets"
+      },
+      {
+        "name": "Enhanced Feline trousers",
+        "link": "/wiki/Enhanced_Feline_trousers"
+      },
+      {
+        "name": "Enhanced Griffin armor",
+        "link": "/wiki/Enhanced_Griffin_armor"
+      },
+      {
+        "name": "Enhanced Griffin boots",
+        "link": "/wiki/Enhanced_Griffin_boots"
+      },
+      {
+        "name": "Enhanced Griffin gauntlets",
+        "link": "/wiki/Enhanced_Griffin_gauntlets"
+      },
+      {
+        "name": "Enhanced Griffin trousers",
+        "link": "/wiki/Enhanced_Griffin_trousers"
+      },
+      {
+        "name": "Enhanced Legendary Feline armor",
+        "link": "/wiki/Enhanced_Legendary_Feline_armor"
+      },
+      {
+        "name": "Enhanced Legendary Feline boots",
+        "link": "/wiki/Enhanced_Legendary_Feline_boots"
+      },
+      {
+        "name": "Enhanced Legendary Feline gauntlets",
+        "link": "/wiki/Enhanced_Legendary_Feline_gauntlets"
+      },
+      {
+        "name": "Enhanced Legendary Feline trousers",
+        "link": "/wiki/Enhanced_Legendary_Feline_trousers"
+      },
+      {
+        "name": "Enhanced Legendary Griffin armor",
+        "link": "/wiki/Enhanced_Legendary_Griffin_armor"
+      },
+      {
+        "name": "Enhanced Legendary Griffin boots",
+        "link": "/wiki/Enhanced_Legendary_Griffin_boots"
+      },
+      {
+        "name": "Enhanced Legendary Griffin gauntlets",
+        "link": "/wiki/Enhanced_Legendary_Griffin_gauntlets"
+      },
+      {
+        "name": "Enhanced Legendary Griffin trousers",
+        "link": "/wiki/Enhanced_Legendary_Griffin_trousers"
+      },
+      {
+        "name": "Enhanced Legendary Ursine armor",
+        "link": "/wiki/Enhanced_Legendary_Ursine_armor"
+      },
+      {
+        "name": "Enhanced Legendary Ursine boots",
+        "link": "/wiki/Enhanced_Legendary_Ursine_boots"
+      },
+      {
+        "name": "Enhanced Legendary Ursine gauntlets",
+        "link": "/wiki/Enhanced_Legendary_Ursine_gauntlets"
+      },
+      {
+        "name": "Enhanced Legendary Ursine trousers",
+        "link": "/wiki/Enhanced_Legendary_Ursine_trousers"
+      },
+      {
+        "name": "Enhanced Legendary Wolven armor",
+        "link": "/wiki/Enhanced_Legendary_Wolven_armor"
+      },
+      {
+        "name": "Enhanced Legendary Wolven boots",
+        "link": "/wiki/Enhanced_Legendary_Wolven_boots"
+      },
+      {
+        "name": "Enhanced Legendary Wolven gauntlets",
+        "link": "/wiki/Enhanced_Legendary_Wolven_gauntlets"
+      },
+      {
+        "name": "Enhanced Legendary Wolven trousers",
+        "link": "/wiki/Enhanced_Legendary_Wolven_trousers"
+      },
+      {
+        "name": "Enhanced Ursine armor",
+        "link": "/wiki/Enhanced_Ursine_armor"
+      },
+      {
+        "name": "Enhanced Ursine boots",
+        "link": "/wiki/Enhanced_Ursine_boots"
+      },
+      {
+        "name": "Enhanced Ursine gauntlets",
+        "link": "/wiki/Enhanced_Ursine_gauntlets"
+      },
+      {
+        "name": "Enhanced Ursine trousers",
+        "link": "/wiki/Enhanced_Ursine_trousers"
+      },
+      {
+        "name": "Enhanced Wolven armor",
+        "link": "/wiki/Enhanced_Wolven_armor"
+      },
+      {
+        "name": "Enhanced Wolven boots",
+        "link": "/wiki/Enhanced_Wolven_boots"
+      },
+      {
+        "name": "Enhanced Wolven gauntlets",
+        "link": "/wiki/Enhanced_Wolven_gauntlets"
+      },
+      {
+        "name": "Enhanced Wolven trousers",
+        "link": "/wiki/Enhanced_Wolven_trousers"
+      },
+      {
+        "name": "Eternal Fire executioner's armor",
+        "link": "/wiki/Eternal_Fire_executioner%27s_armor"
+      },
+      {
+        "name": "Executioner's boots",
+        "link": "/wiki/Executioner%27s_boots"
+      },
+      {
+        "name": "Feline armor",
+        "link": "/wiki/Feline_armor"
+      },
+      {
+        "name": "Feline boots",
+        "link": "/wiki/Feline_boots"
+      },
+      {
+        "name": "Feline gauntlets",
+        "link": "/wiki/Feline_gauntlets"
+      },
+      {
+        "name": "Feline trousers",
+        "link": "/wiki/Feline_trousers"
+      },
+      {
+        "name": "Freya's Warriors' armor",
+        "link": "/wiki/Freya%27s_Warriors%27_armor"
+      },
+      {
+        "name": "Great Sun armor",
+        "link": "/wiki/Great_Sun_armor"
+      },
+      {
+        "name": "Griffin armor",
+        "link": "/wiki/Griffin_armor"
+      },
+      {
+        "name": "Griffin boots",
+        "link": "/wiki/Griffin_boots"
+      },
+      {
+        "name": "Griffin gauntlets",
+        "link": "/wiki/Griffin_gauntlets"
+      },
+      {
+        "name": "Griffin trousers",
+        "link": "/wiki/Griffin_trousers"
+      },
+      {
+        "name": "Guardsman's boots",
+        "link": "/wiki/Guardsman%27s_boots"
+      },
+      {
+        "name": "Category:Hearts of Stone armor",
+        "link": "/wiki/Category:Hearts_of_Stone_armor"
+      },
+      {
+        "name": "Hindarsfjall heavy armor",
+        "link": "/wiki/Hindarsfjall_heavy_armor"
+      },
+      {
+        "name": "Hunting boots",
+        "link": "/wiki/Hunting_boots"
+      },
+      {
+        "name": "Hunting gauntlets",
+        "link": "/wiki/Hunting_gauntlets"
+      },
+      {
+        "name": "Hunting trousers",
+        "link": "/wiki/Hunting_trousers"
+      },
+      {
+        "name": "Impera Brigade armor",
+        "link": "/wiki/Impera_Brigade_armor"
+      },
+      {
+        "name": "Kaedweni Cuirass",
+        "link": "/wiki/Kaedweni_Cuirass"
+      },
+      {
+        "name": "Kaedweni gambeson",
+        "link": "/wiki/Kaedweni_gambeson"
+      },
+      {
+        "name": "Kaer Morhen armor",
+        "link": "/wiki/Kaer_Morhen_armor"
+      },
+      {
+        "name": "Knight's gauntlets",
+        "link": "/wiki/Knight%27s_gauntlets"
+      },
+      {
+        "name": "Legendary Feline armor",
+        "link": "/wiki/Legendary_Feline_armor"
+      },
+      {
+        "name": "Legendary Feline boots",
+        "link": "/wiki/Legendary_Feline_boots"
+      },
+      {
+        "name": "Legendary Feline gauntlets",
+        "link": "/wiki/Legendary_Feline_gauntlets"
+      },
+      {
+        "name": "Legendary Feline trousers",
+        "link": "/wiki/Legendary_Feline_trousers"
+      },
+      {
+        "name": "Legendary Griffin armor",
+        "link": "/wiki/Legendary_Griffin_armor"
+      },
+      {
+        "name": "Legendary Griffin boots",
+        "link": "/wiki/Legendary_Griffin_boots"
+      },
+      {
+        "name": "Legendary Griffin gauntlets",
+        "link": "/wiki/Legendary_Griffin_gauntlets"
+      },
+      {
+        "name": "Legendary Griffin trousers",
+        "link": "/wiki/Legendary_Griffin_trousers"
+      },
+      {
+        "name": "Legendary Ursine armor",
+        "link": "/wiki/Legendary_Ursine_armor"
+      },
+      {
+        "name": "Legendary Ursine boots",
+        "link": "/wiki/Legendary_Ursine_boots"
+      },
+      {
+        "name": "Legendary Ursine gauntlets",
+        "link": "/wiki/Legendary_Ursine_gauntlets"
+      },
+      {
+        "name": "Legendary Ursine trousers",
+        "link": "/wiki/Legendary_Ursine_trousers"
+      },
+      {
+        "name": "Legendary Wolven armor",
+        "link": "/wiki/Legendary_Wolven_armor"
+      },
+      {
+        "name": "Legendary Wolven boots",
+        "link": "/wiki/Legendary_Wolven_boots"
+      },
+      {
+        "name": "Legendary Wolven gauntlets",
+        "link": "/wiki/Legendary_Wolven_gauntlets"
+      },
+      {
+        "name": "Legendary Wolven trousers",
+        "link": "/wiki/Legendary_Wolven_trousers"
+      },
+      {
+        "name": "Lyrian hardened leather trousers",
+        "link": "/wiki/Lyrian_hardened_leather_trousers"
+      },
+      {
+        "name": "Mag Deira cuirass",
+        "link": "/wiki/Mag_Deira_cuirass"
+      },
+      {
+        "name": "Mahakaman heavy armor",
+        "link": "/wiki/Mahakaman_heavy_armor"
+      },
+      {
+        "name": "Mahakaman trousers",
+        "link": "/wiki/Mahakaman_trousers"
+      },
+      {
+        "name": "Mastercrafted Feline armor",
+        "link": "/wiki/Mastercrafted_Feline_armor"
+      },
+      {
+        "name": "Mastercrafted Feline boots",
+        "link": "/wiki/Mastercrafted_Feline_boots"
+      },
+      {
+        "name": "Mastercrafted Feline gauntlets",
+        "link": "/wiki/Mastercrafted_Feline_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Feline trousers",
+        "link": "/wiki/Mastercrafted_Feline_trousers"
+      },
+      {
+        "name": "Mastercrafted Griffin armor",
+        "link": "/wiki/Mastercrafted_Griffin_armor"
+      },
+      {
+        "name": "Mastercrafted Griffin boots",
+        "link": "/wiki/Mastercrafted_Griffin_boots"
+      },
+      {
+        "name": "Mastercrafted Griffin gauntlets",
+        "link": "/wiki/Mastercrafted_Griffin_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Griffin trousers",
+        "link": "/wiki/Mastercrafted_Griffin_trousers"
+      },
+      {
+        "name": "Mastercrafted Legendary Feline armor",
+        "link": "/wiki/Mastercrafted_Legendary_Feline_armor"
+      },
+      {
+        "name": "Mastercrafted Legendary Feline boots",
+        "link": "/wiki/Mastercrafted_Legendary_Feline_boots"
+      },
+      {
+        "name": "Mastercrafted Legendary Feline gauntlets",
+        "link": "/wiki/Mastercrafted_Legendary_Feline_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Legendary Feline trousers",
+        "link": "/wiki/Mastercrafted_Legendary_Feline_trousers"
+      },
+      {
+        "name": "Mastercrafted Legendary Griffin armor",
+        "link": "/wiki/Mastercrafted_Legendary_Griffin_armor"
+      },
+      {
+        "name": "Mastercrafted Legendary Griffin boots",
+        "link": "/wiki/Mastercrafted_Legendary_Griffin_boots"
+      },
+      {
+        "name": "Mastercrafted Legendary Griffin gauntlets",
+        "link": "/wiki/Mastercrafted_Legendary_Griffin_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Legendary Griffin trousers",
+        "link": "/wiki/Mastercrafted_Legendary_Griffin_trousers"
+      },
+      {
+        "name": "Mastercrafted Legendary Ursine armor",
+        "link": "/wiki/Mastercrafted_Legendary_Ursine_armor"
+      },
+      {
+        "name": "Mastercrafted Legendary Ursine boots",
+        "link": "/wiki/Mastercrafted_Legendary_Ursine_boots"
+      },
+      {
+        "name": "Mastercrafted Legendary Ursine gauntlets",
+        "link": "/wiki/Mastercrafted_Legendary_Ursine_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Legendary Ursine trousers",
+        "link": "/wiki/Mastercrafted_Legendary_Ursine_trousers"
+      },
+      {
+        "name": "Mastercrafted Legendary Wolven armor",
+        "link": "/wiki/Mastercrafted_Legendary_Wolven_armor"
+      },
+      {
+        "name": "Mastercrafted Legendary Wolven boots",
+        "link": "/wiki/Mastercrafted_Legendary_Wolven_boots"
+      },
+      {
+        "name": "Mastercrafted Legendary Wolven gauntlets",
+        "link": "/wiki/Mastercrafted_Legendary_Wolven_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Legendary Wolven trousers",
+        "link": "/wiki/Mastercrafted_Legendary_Wolven_trousers"
+      },
+      {
+        "name": "Mastercrafted Ursine armor",
+        "link": "/wiki/Mastercrafted_Ursine_armor"
+      },
+      {
+        "name": "Mastercrafted Ursine boots",
+        "link": "/wiki/Mastercrafted_Ursine_boots"
+      },
+      {
+        "name": "Mastercrafted Ursine gauntlets",
+        "link": "/wiki/Mastercrafted_Ursine_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Ursine trousers",
+        "link": "/wiki/Mastercrafted_Ursine_trousers"
+      },
+      {
+        "name": "Mastercrafted Wolven armor",
+        "link": "/wiki/Mastercrafted_Wolven_armor"
+      },
+      {
+        "name": "Mastercrafted Wolven boots",
+        "link": "/wiki/Mastercrafted_Wolven_boots"
+      },
+      {
+        "name": "Mastercrafted Wolven gauntlets",
+        "link": "/wiki/Mastercrafted_Wolven_gauntlets"
+      },
+      {
+        "name": "Mastercrafted Wolven trousers",
+        "link": "/wiki/Mastercrafted_Wolven_trousers"
+      },
+      {
+        "name": "Mountain Folk boots",
+        "link": "/wiki/Mountain_Folk_boots"
+      },
+      {
+        "name": "Nekker hide boots",
+        "link": "/wiki/Nekker_hide_boots"
+      },
+      {
+        "name": "Nilfgaardian Armor",
+        "link": "/wiki/Nilfgaardian_Armor"
+      },
+      {
+        "name": "Nilfgaardian Armor set",
+        "link": "/wiki/Nilfgaardian_Armor_set"
+      },
+      {
+        "name": "Nilfgaardian Boots",
+        "link": "/wiki/Nilfgaardian_Boots"
+      },
+      {
+        "name": "Nilfgaardian Gauntlets",
+        "link": "/wiki/Nilfgaardian_Gauntlets"
+      },
+      {
+        "name": "Nilfgaardian guardsman armor",
+        "link": "/wiki/Nilfgaardian_guardsman_armor"
+      },
+      {
+        "name": "Nilfgaardian guardsman's gauntlets",
+        "link": "/wiki/Nilfgaardian_guardsman%27s_gauntlets"
+      },
+      {
+        "name": "Nilfgaardian trousers",
+        "link": "/wiki/Nilfgaardian_trousers"
+      },
+      {
+        "name": "Nilfgaardian Trousers (DLC)",
+        "link": "/wiki/Nilfgaardian_Trousers_(DLC)"
+      },
+      {
+        "name": "Oathbreaker's armor",
+        "link": "/wiki/Oathbreaker%27s_armor"
+      },
+      {
+        "name": "Reaver's boots",
+        "link": "/wiki/Reaver%27s_boots"
+      },
+      {
+        "name": "Redanian halberdier's armor",
+        "link": "/wiki/Redanian_halberdier%27s_armor"
+      },
+      {
+        "name": "Salmian brigandine",
+        "link": "/wiki/Salmian_brigandine"
+      },
+      {
+        "name": "Sapper's trousers",
+        "link": "/wiki/Sapper%27s_trousers"
+      },
+      {
+        "name": "Shiadhal's armor",
+        "link": "/wiki/Shiadhal%27s_armor"
+      },
+      {
+        "name": "Shirt",
+        "link": "/wiki/Shirt"
+      },
+      {
+        "name": "Skellige Armor set",
+        "link": "/wiki/Skellige_Armor_set"
+      },
+      {
+        "name": "Skellige breeches",
+        "link": "/wiki/Skellige_breeches"
+      },
+      {
+        "name": "Skellige festive slippers",
+        "link": "/wiki/Skellige_festive_slippers"
+      },
+      {
+        "name": "Skellige gambeson",
+        "link": "/wiki/Skellige_gambeson"
+      },
+      {
+        "name": "Skellige tunic",
+        "link": "/wiki/Skellige_tunic"
+      },
+      {
+        "name": "Spikeroog aketon",
+        "link": "/wiki/Spikeroog_aketon"
+      },
+      {
+        "name": "Superior Feline armor",
+        "link": "/wiki/Superior_Feline_armor"
+      },
+      {
+        "name": "Superior Feline boots",
+        "link": "/wiki/Superior_Feline_boots"
+      },
+      {
+        "name": "Superior Feline gauntlets",
+        "link": "/wiki/Superior_Feline_gauntlets"
+      },
+      {
+        "name": "Superior Feline trousers",
+        "link": "/wiki/Superior_Feline_trousers"
+      },
+      {
+        "name": "Superior Griffin armor",
+        "link": "/wiki/Superior_Griffin_armor"
+      },
+      {
+        "name": "Superior Griffin boots",
+        "link": "/wiki/Superior_Griffin_boots"
+      },
+      {
+        "name": "Superior Griffin gauntlets",
+        "link": "/wiki/Superior_Griffin_gauntlets"
+      },
+      {
+        "name": "Superior Griffin trousers",
+        "link": "/wiki/Superior_Griffin_trousers"
+      },
+      {
+        "name": "Superior Legendary Feline armor",
+        "link": "/wiki/Superior_Legendary_Feline_armor"
+      },
+      {
+        "name": "Superior Legendary Feline boots",
+        "link": "/wiki/Superior_Legendary_Feline_boots"
+      },
+      {
+        "name": "Superior Legendary Feline gauntlets",
+        "link": "/wiki/Superior_Legendary_Feline_gauntlets"
+      },
+      {
+        "name": "Superior Legendary Feline trousers",
+        "link": "/wiki/Superior_Legendary_Feline_trousers"
+      },
+      {
+        "name": "Superior Legendary Griffin armor",
+        "link": "/wiki/Superior_Legendary_Griffin_armor"
+      },
+      {
+        "name": "Superior Legendary Griffin boots",
+        "link": "/wiki/Superior_Legendary_Griffin_boots"
+      },
+      {
+        "name": "Superior Legendary Griffin gauntlets",
+        "link": "/wiki/Superior_Legendary_Griffin_gauntlets"
+      },
+      {
+        "name": "Superior Legendary Griffin trousers",
+        "link": "/wiki/Superior_Legendary_Griffin_trousers"
+      },
+      {
+        "name": "Superior Legendary Ursine armor",
+        "link": "/wiki/Superior_Legendary_Ursine_armor"
+      },
+      {
+        "name": "Superior Legendary Ursine boots",
+        "link": "/wiki/Superior_Legendary_Ursine_boots"
+      },
+      {
+        "name": "Superior Legendary Ursine gauntlets",
+        "link": "/wiki/Superior_Legendary_Ursine_gauntlets"
+      },
+      {
+        "name": "Superior Legendary Ursine trousers",
+        "link": "/wiki/Superior_Legendary_Ursine_trousers"
+      },
+      {
+        "name": "Superior Legendary Wolven armor",
+        "link": "/wiki/Superior_Legendary_Wolven_armor"
+      },
+      {
+        "name": "Superior Legendary Wolven boots",
+        "link": "/wiki/Superior_Legendary_Wolven_boots"
+      },
+      {
+        "name": "Superior Legendary Wolven gauntlets",
+        "link": "/wiki/Superior_Legendary_Wolven_gauntlets"
+      },
+      {
+        "name": "Superior Legendary Wolven trousers",
+        "link": "/wiki/Superior_Legendary_Wolven_trousers"
+      },
+      {
+        "name": "Superior Ursine armor",
+        "link": "/wiki/Superior_Ursine_armor"
+      },
+      {
+        "name": "Superior Ursine boots",
+        "link": "/wiki/Superior_Ursine_boots"
+      },
+      {
+        "name": "Superior Ursine gauntlets",
+        "link": "/wiki/Superior_Ursine_gauntlets"
+      },
+      {
+        "name": "Superior Ursine trousers",
+        "link": "/wiki/Superior_Ursine_trousers"
+      },
+      {
+        "name": "Superior Wolven armor",
+        "link": "/wiki/Superior_Wolven_armor"
+      },
+      {
+        "name": "Superior Wolven boots",
+        "link": "/wiki/Superior_Wolven_boots"
+      },
+      {
+        "name": "Superior Wolven gauntlets",
+        "link": "/wiki/Superior_Wolven_gauntlets"
+      },
+      {
+        "name": "Superior Wolven trousers",
+        "link": "/wiki/Superior_Wolven_trousers"
+      },
+      {
+        "name": "Swordsman's boots",
+        "link": "/wiki/Swordsman%27s_boots"
+      },
+      {
+        "name": "Temerian armor",
+        "link": "/wiki/Temerian_armor"
+      },
+      {
+        "name": "Temerian Armor set",
+        "link": "/wiki/Temerian_Armor_set"
+      },
+      {
+        "name": "Temerian boots",
+        "link": "/wiki/Temerian_boots"
+      },
+      {
+        "name": "Temerian gauntlets",
+        "link": "/wiki/Temerian_gauntlets"
+      },
+      {
+        "name": "Temerian trousers",
+        "link": "/wiki/Temerian_trousers"
+      },
+      {
+        "name": "The Witcher 3 heavy armor",
+        "link": "/wiki/The_Witcher_3_heavy_armor"
+      },
+      {
+        "name": "The Witcher 3 light armor",
+        "link": "/wiki/The_Witcher_3_light_armor"
+      },
+      {
+        "name": "The Witcher 3 medium armor",
+        "link": "/wiki/The_Witcher_3_medium_armor"
+      },
+      {
+        "name": "Thyssen armor",
+        "link": "/wiki/Thyssen_armor"
+      },
+      {
+        "name": "Tracker's boots",
+        "link": "/wiki/Tracker%27s_boots"
+      },
+      {
+        "name": "Tracker's gauntlets",
+        "link": "/wiki/Tracker%27s_gauntlets"
+      },
+      {
+        "name": "Tracker's trousers",
+        "link": "/wiki/Tracker%27s_trousers"
+      },
+      {
+        "name": "Trapper's boots",
+        "link": "/wiki/Trapper%27s_boots"
+      },
+      {
+        "name": "Undvik armor",
+        "link": "/wiki/Undvik_armor"
+      },
+      {
+        "name": "Undvik boots",
+        "link": "/wiki/Undvik_boots"
+      },
+      {
+        "name": "Undvik gauntlets",
+        "link": "/wiki/Undvik_gauntlets"
+      },
+      {
+        "name": "Undvik trousers",
+        "link": "/wiki/Undvik_trousers"
+      },
+      {
+        "name": "Category:The Witcher 3 upgrades",
+        "link": "/wiki/Category:The_Witcher_3_upgrades"
+      },
+      {
+        "name": "Ursine armor",
+        "link": "/wiki/Ursine_armor"
+      },
+      {
+        "name": "Ursine boots",
+        "link": "/wiki/Ursine_boots"
+      },
+      {
+        "name": "Ursine gauntlets",
+        "link": "/wiki/Ursine_gauntlets"
+      },
+      {
+        "name": "Ursine trousers",
+        "link": "/wiki/Ursine_trousers"
+      },
+      {
+        "name": "Verden archer's gambeson",
+        "link": "/wiki/Verden_archer%27s_gambeson"
+      },
+      {
+        "name": "Warrior's leather jacket",
+        "link": "/wiki/Warrior%27s_leather_jacket"
+      },
+      {
+        "name": "Witch hunter's armor",
+        "link": "/wiki/Witch_hunter%27s_armor"
+      },
+      {
+        "name": "Category:The Witcher 3 witcher gear",
+        "link": "/wiki/Category:The_Witcher_3_witcher_gear"
+      },
+      {
+        "name": "Wolven armor",
+        "link": "/wiki/Wolven_armor"
+      },
+      {
+        "name": "Wolven boots",
+        "link": "/wiki/Wolven_boots"
+      },
+      {
+        "name": "Wolven gauntlets",
+        "link": "/wiki/Wolven_gauntlets"
+      },
+      {
+        "name": "Wolven trousers",
+        "link": "/wiki/Wolven_trousers"
+      },
+      {
+        "name": "Yennefer's dress",
+        "link": "/wiki/Yennefer%27s_dress"
+      },
+      {
+        "name": "Zireael armor",
+        "link": "/wiki/Zireael_armor"
+      }
+    ]
+  },
+  {
+    "name": "Characters",
+    "link": "https://witcher.fandom.com/wiki/Category:Characters",
+    "submenu": [
+      {
+        "name": "Gwent players",
+        "link": "/wiki/Gwent_players"
+      },
+      {
+        "name": "Innkeeper",
+        "link": "/wiki/Innkeeper"
+      },
+      {
+        "name": "Abbé Faria",
+        "link": "/wiki/Abb%C3%A9_Faria"
+      },
+      {
+        "name": "Abelard Rizza",
+        "link": "/wiki/Abelard_Rizza"
+      },
+      {
+        "name": "Aegar",
+        "link": "/wiki/Aegar"
+      },
+      {
+        "name": "Agda",
+        "link": "/wiki/Agda"
+      },
+      {
+        "name": "Agneta",
+        "link": "/wiki/Agneta"
+      },
+      {
+        "name": "Aki II",
+        "link": "/wiki/Aki_II"
+      },
+      {
+        "name": "Albert Vegelbud",
+        "link": "/wiki/Albert_Vegelbud"
+      },
+      {
+        "name": "Albin Hart",
+        "link": "/wiki/Albin_Hart"
+      },
+      {
+        "name": "Alchemist (Crematory)",
+        "link": "/wiki/Alchemist_(Crematory)"
+      },
+      {
+        "name": "Aldert Geert",
+        "link": "/wiki/Aldert_Geert"
+      },
+      {
+        "name": "Alexander",
+        "link": "/wiki/Alexander"
+      },
+      {
+        "name": "Allgod",
+        "link": "/wiki/Allgod"
+      },
+      {
+        "name": "Ambros",
+        "link": "/wiki/Ambros"
+      },
+      {
+        "name": "Amos var Ypsis",
+        "link": "/wiki/Amos_var_Ypsis"
+      },
+      {
+        "name": "Amrynn",
+        "link": "/wiki/Amrynn"
+      },
+      {
+        "name": "Anabelle",
+        "link": "/wiki/Anabelle"
+      },
+      {
+        "name": "Anisse",
+        "link": "/wiki/Anisse"
+      },
+      {
+        "name": "Anna Strenger",
+        "link": "/wiki/Anna_Strenger"
+      },
+      {
+        "name": "Anselm (merchant)",
+        "link": "/wiki/Anselm_(merchant)"
+      },
+      {
+        "name": "Archibald O'Neill",
+        "link": "/wiki/Archibald_O%27Neill"
+      },
+      {
+        "name": "Armorer",
+        "link": "/wiki/Armorer"
+      },
+      {
+        "name": "Armorer (Hierarch Square)",
+        "link": "/wiki/Armorer_(Hierarch_Square)"
+      },
+      {
+        "name": "Armorer (Kaer Muire)",
+        "link": "/wiki/Armorer_(Kaer_Muire)"
+      },
+      {
+        "name": "Armorer (Kaer Trolde keep)",
+        "link": "/wiki/Armorer_(Kaer_Trolde_keep)"
+      },
+      {
+        "name": "Armorer (Larvik)",
+        "link": "/wiki/Armorer_(Larvik)"
+      },
+      {
+        "name": "Armorer (Midcopse)",
+        "link": "/wiki/Armorer_(Midcopse)"
+      },
+      {
+        "name": "Armorer (Oxenfurt)",
+        "link": "/wiki/Armorer_(Oxenfurt)"
+      },
+      {
+        "name": "Armorer (Urialla Harbor)",
+        "link": "/wiki/Armorer_(Urialla_Harbor)"
+      },
+      {
+        "name": "Arnout Vester",
+        "link": "/wiki/Arnout_Vester"
+      },
+      {
+        "name": "Arnvald",
+        "link": "/wiki/Arnvald"
+      },
+      {
+        "name": "Artis",
+        "link": "/wiki/Artis"
+      },
+      {
+        "name": "Astrid (Skjall's sister)",
+        "link": "/wiki/Astrid_(Skjall%27s_sister)"
+      },
+      {
+        "name": "Astrid the Vipress",
+        "link": "/wiki/Astrid_the_Vipress"
+      },
+      {
+        "name": "Athak Akydalv",
+        "link": "/wiki/Athak_Akydalv"
+      },
+      {
+        "name": "Auberon Muircetach",
+        "link": "/wiki/Auberon_Muircetach"
+      },
+      {
+        "name": "Avallac'h",
+        "link": "/wiki/Avallac%27h"
+      },
+      {
+        "name": "Axel an Tordarroch",
+        "link": "/wiki/Axel_an_Tordarroch"
+      },
+      {
+        "name": "Aynara",
+        "link": "/wiki/Aynara"
+      },
+      {
+        "name": "Barber (Claywich)",
+        "link": "/wiki/Barber_(Claywich)"
+      },
+      {
+        "name": "Barber (Gildorf)",
+        "link": "/wiki/Barber_(Gildorf)"
+      },
+      {
+        "name": "Barber (Oxenfurt)",
+        "link": "/wiki/Barber_(Oxenfurt)"
+      },
+      {
+        "name": "Barber (Svorlag)",
+        "link": "/wiki/Barber_(Svorlag)"
+      },
+      {
+        "name": "Barber (The Bits)",
+        "link": "/wiki/Barber_(The_Bits)"
+      },
+      {
+        "name": "Bart",
+        "link": "/wiki/Bart"
+      },
+      {
+        "name": "Barylka",
+        "link": "/wiki/Barylka"
+      },
+      {
+        "name": "Bastien Vildenvert",
+        "link": "/wiki/Bastien_Vildenvert"
+      },
+      {
+        "name": "Bea",
+        "link": "/wiki/Bea"
+      },
+      {
+        "name": "Beast Tamer",
+        "link": "/wiki/Beast_Tamer"
+      },
+      {
+        "name": "Berem",
+        "link": "/wiki/Berem"
+      },
+      {
+        "name": "Bernard Tulle",
+        "link": "/wiki/Bernard_Tulle"
+      },
+      {
+        "name": "Bertha",
+        "link": "/wiki/Bertha"
+      },
+      {
+        "name": "Berthold",
+        "link": "/wiki/Berthold"
+      },
+      {
+        "name": "Bertram (peasant)",
+        "link": "/wiki/Bertram_(peasant)"
+      },
+      {
+        "name": "Birna",
+        "link": "/wiki/Birna"
+      },
+      {
+        "name": "Bjern",
+        "link": "/wiki/Bjern"
+      },
+      {
+        "name": "Bjorg",
+        "link": "/wiki/Bjorg"
+      },
+      {
+        "name": "Black Bogdan",
+        "link": "/wiki/Black_Bogdan"
+      },
+      {
+        "name": "Blacksmith (Bald Mountain)",
+        "link": "/wiki/Blacksmith_(Bald_Mountain)"
+      },
+      {
+        "name": "Blacksmith (Blackbough)",
+        "link": "/wiki/Blacksmith_(Blackbough)"
+      },
+      {
+        "name": "Blacksmith (Fayrlund)",
+        "link": "/wiki/Blacksmith_(Fayrlund)"
+      },
+      {
+        "name": "Blacksmith (Harviken)",
+        "link": "/wiki/Blacksmith_(Harviken)"
+      },
+      {
+        "name": "Blacksmith (Larvik)",
+        "link": "/wiki/Blacksmith_(Larvik)"
+      },
+      {
+        "name": "Blacksmith (Lindenvale)",
+        "link": "/wiki/Blacksmith_(Lindenvale)"
+      },
+      {
+        "name": "Blacksmith (Novigrad)",
+        "link": "/wiki/Blacksmith_(Novigrad)"
+      },
+      {
+        "name": "Blacksmith (Oreton)",
+        "link": "/wiki/Blacksmith_(Oreton)"
+      },
+      {
+        "name": "Blacksmith (Oxenfurt)",
+        "link": "/wiki/Blacksmith_(Oxenfurt)"
+      },
+      {
+        "name": "Blacksmith (Silverton)",
+        "link": "/wiki/Blacksmith_(Silverton)"
+      },
+      {
+        "name": "Blacksmith (Urialla Harbor)",
+        "link": "/wiki/Blacksmith_(Urialla_Harbor)"
+      },
+      {
+        "name": "Category:Blood and Wine characters",
+        "link": "/wiki/Category:Blood_and_Wine_characters"
+      },
+      {
+        "name": "Boatwright",
+        "link": "/wiki/Boatwright"
+      },
+      {
+        "name": "Bolko",
+        "link": "/wiki/Bolko"
+      },
+      {
+        "name": "Boris (bear)",
+        "link": "/wiki/Boris_(bear)"
+      },
+      {
+        "name": "Boris (troll)",
+        "link": "/wiki/Boris_(troll)"
+      },
+      {
+        "name": "Bram",
+        "link": "/wiki/Bram"
+      },
+      {
+        "name": "Bran Tuirseach",
+        "link": "/wiki/Bran_Tuirseach"
+      },
+      {
+        "name": "Bran's unidentified concubine",
+        "link": "/wiki/Bran%27s_unidentified_concubine"
+      },
+      {
+        "name": "Brean Hotsch",
+        "link": "/wiki/Brean_Hotsch"
+      },
+      {
+        "name": "Brewess",
+        "link": "/wiki/Brewess"
+      },
+      {
+        "name": "Bruno",
+        "link": "/wiki/Bruno"
+      },
+      {
+        "name": "Bytomir",
+        "link": "/wiki/Bytomir"
+      },
+      {
+        "name": "Caesar Bilzen",
+        "link": "/wiki/Caesar_Bilzen"
+      },
+      {
+        "name": "Caleb Menge",
+        "link": "/wiki/Caleb_Menge"
+      },
+      {
+        "name": "Captain Liglad",
+        "link": "/wiki/Captain_Liglad"
+      },
+      {
+        "name": "Captain Wolverstone",
+        "link": "/wiki/Captain_Wolverstone"
+      },
+      {
+        "name": "Caranthir Ar-Feiniel",
+        "link": "/wiki/Caranthir_Ar-Feiniel"
+      },
+      {
+        "name": "Carduin",
+        "link": "/wiki/Carduin"
+      },
+      {
+        "name": "Carlo Rycher",
+        "link": "/wiki/Carlo_Rycher"
+      },
+      {
+        "name": "Carlo Varese",
+        "link": "/wiki/Carlo_Varese"
+      },
+      {
+        "name": "Carthia van Canten",
+        "link": "/wiki/Carthia_van_Canten"
+      },
+      {
+        "name": "Caspar",
+        "link": "/wiki/Caspar"
+      },
+      {
+        "name": "Cerys an Craite",
+        "link": "/wiki/Cerys_an_Craite"
+      },
+      {
+        "name": "Chappelle",
+        "link": "/wiki/Chappelle"
+      },
+      {
+        "name": "Category:The Witcher 3 images - Characters",
+        "link": "/wiki/Category:The_Witcher_3_images_-_Characters"
+      },
+      {
+        "name": "Chet",
+        "link": "/wiki/Chet"
+      },
+      {
+        "name": "Ciri",
+        "link": "/wiki/Ciri"
+      },
+      {
+        "name": "Claer",
+        "link": "/wiki/Claer"
+      },
+      {
+        "name": "Cledwyn",
+        "link": "/wiki/Cledwyn"
+      },
+      {
+        "name": "Corinne Tilly",
+        "link": "/wiki/Corinne_Tilly"
+      },
+      {
+        "name": "Count de Luverten",
+        "link": "/wiki/Count_de_Luverten"
+      },
+      {
+        "name": "Count Tybalt (Novigrad)",
+        "link": "/wiki/Count_Tybalt_(Novigrad)"
+      },
+      {
+        "name": "Crach an Craite",
+        "link": "/wiki/Crach_an_Craite"
+      },
+      {
+        "name": "Crones",
+        "link": "/wiki/Crones"
+      },
+      {
+        "name": "Cyprian Wiley",
+        "link": "/wiki/Cyprian_Wiley"
+      },
+      {
+        "name": "Cyrus Engelkind Hemmelfart",
+        "link": "/wiki/Cyrus_Engelkind_Hemmelfart"
+      },
+      {
+        "name": "Dagmar",
+        "link": "/wiki/Dagmar"
+      },
+      {
+        "name": "Damiaan",
+        "link": "/wiki/Damiaan"
+      },
+      {
+        "name": "Dandelion",
+        "link": "/wiki/Dandelion"
+      },
+      {
+        "name": "Dea",
+        "link": "/wiki/Dea"
+      },
+      {
+        "name": "Dieter",
+        "link": "/wiki/Dieter"
+      },
+      {
+        "name": "Dilvyn",
+        "link": "/wiki/Dilvyn"
+      },
+      {
+        "name": "Dirk",
+        "link": "/wiki/Dirk"
+      },
+      {
+        "name": "Djenge Frett",
+        "link": "/wiki/Djenge_Frett"
+      },
+      {
+        "name": "Dolores Reardon",
+        "link": "/wiki/Dolores_Reardon"
+      },
+      {
+        "name": "Donar an Hindar",
+        "link": "/wiki/Donar_an_Hindar"
+      },
+      {
+        "name": "Dragomir (The Witcher 3)",
+        "link": "/wiki/Dragomir_(The_Witcher_3)"
+      },
+      {
+        "name": "Draig Bon-Dhu",
+        "link": "/wiki/Draig_Bon-Dhu"
+      },
+      {
+        "name": "Drogodar",
+        "link": "/wiki/Drogodar"
+      },
+      {
+        "name": "Dromle",
+        "link": "/wiki/Dromle"
+      },
+      {
+        "name": "Dudu",
+        "link": "/wiki/Dudu"
+      },
+      {
+        "name": "Duke (gangster)",
+        "link": "/wiki/Duke_(gangster)"
+      },
+      {
+        "name": "Dune Vildenvert",
+        "link": "/wiki/Dune_Vildenvert"
+      },
+      {
+        "name": "Durden",
+        "link": "/wiki/Durden"
+      },
+      {
+        "name": "Ealdorman (Downwarren)",
+        "link": "/wiki/Ealdorman_(Downwarren)"
+      },
+      {
+        "name": "Ealdorman (White Orchard)",
+        "link": "/wiki/Ealdorman_(White_Orchard)"
+      },
+      {
+        "name": "Earl (gangster)",
+        "link": "/wiki/Earl_(gangster)"
+      },
+      {
+        "name": "Edna var Attre",
+        "link": "/wiki/Edna_var_Attre"
+      },
+      {
+        "name": "Egbert",
+        "link": "/wiki/Egbert"
+      },
+      {
+        "name": "Egill",
+        "link": "/wiki/Egill"
+      },
+      {
+        "name": "Éibhear Hattori",
+        "link": "/wiki/%C3%89ibhear_Hattori"
+      },
+      {
+        "name": "Einar (Harviken)",
+        "link": "/wiki/Einar_(Harviken)"
+      },
+      {
+        "name": "Einar (Larvik)",
+        "link": "/wiki/Einar_(Larvik)"
+      },
+      {
+        "name": "Elihal",
+        "link": "/wiki/Elihal"
+      },
+      {
+        "name": "Elsa",
+        "link": "/wiki/Elsa"
+      },
+      {
+        "name": "Emhyr var Emreis",
+        "link": "/wiki/Emhyr_var_Emreis"
+      },
+      {
+        "name": "Eredin Bréacc Glas",
+        "link": "/wiki/Eredin_Br%C3%A9acc_Glas"
+      },
+      {
+        "name": "Ernst van Hoorn",
+        "link": "/wiki/Ernst_van_Hoorn"
+      },
+      {
+        "name": "Eryka",
+        "link": "/wiki/Eryka"
+      },
+      {
+        "name": "Eskel",
+        "link": "/wiki/Eskel"
+      },
+      {
+        "name": "Evald",
+        "link": "/wiki/Evald"
+      },
+      {
+        "name": "Eyvind",
+        "link": "/wiki/Eyvind"
+      },
+      {
+        "name": "Fabian Meyer",
+        "link": "/wiki/Fabian_Meyer"
+      },
+      {
+        "name": "Felicia Cori",
+        "link": "/wiki/Felicia_Cori"
+      },
+      {
+        "name": "Felix Grubb",
+        "link": "/wiki/Felix_Grubb"
+      },
+      {
+        "name": "Fergus Graem",
+        "link": "/wiki/Fergus_Graem"
+      },
+      {
+        "name": "Finneas",
+        "link": "/wiki/Finneas"
+      },
+      {
+        "name": "Folan",
+        "link": "/wiki/Folan"
+      },
+      {
+        "name": "Folmer",
+        "link": "/wiki/Folmer"
+      },
+      {
+        "name": "Francis Bedlam",
+        "link": "/wiki/Francis_Bedlam"
+      },
+      {
+        "name": "Freek",
+        "link": "/wiki/Freek"
+      },
+      {
+        "name": "Freya Priestess",
+        "link": "/wiki/Freya_Priestess"
+      },
+      {
+        "name": "Fringilla Vigo",
+        "link": "/wiki/Fringilla_Vigo"
+      },
+      {
+        "name": "Fritjof",
+        "link": "/wiki/Fritjof"
+      },
+      {
+        "name": "Fugas",
+        "link": "/wiki/Fugas"
+      },
+      {
+        "name": "Gaetan",
+        "link": "/wiki/Gaetan"
+      },
+      {
+        "name": "Gascoigne",
+        "link": "/wiki/Gascoigne"
+      },
+      {
+        "name": "Gaspard",
+        "link": "/wiki/Gaspard"
+      },
+      {
+        "name": "Gaunter O'Dimm",
+        "link": "/wiki/Gaunter_O%27Dimm"
+      },
+      {
+        "name": "Ge'els",
+        "link": "/wiki/Ge%27els"
+      },
+      {
+        "name": "Genny",
+        "link": "/wiki/Genny"
+      },
+      {
+        "name": "Georgius Georg",
+        "link": "/wiki/Georgius_Georg"
+      },
+      {
+        "name": "Geralt of Rivia",
+        "link": "/wiki/Geralt_of_Rivia"
+      },
+      {
+        "name": "Gerd (peasant)",
+        "link": "/wiki/Gerd_(peasant)"
+      },
+      {
+        "name": "Gert Borel",
+        "link": "/wiki/Gert_Borel"
+      },
+      {
+        "name": "Gilbert Witschke",
+        "link": "/wiki/Gilbert_Witschke"
+      },
+      {
+        "name": "Ginter de Lavirac",
+        "link": "/wiki/Ginter_de_Lavirac"
+      },
+      {
+        "name": "Gjarr",
+        "link": "/wiki/Gjarr"
+      },
+      {
+        "name": "Glenna",
+        "link": "/wiki/Glenna"
+      },
+      {
+        "name": "Gomo Seeling",
+        "link": "/wiki/Gomo_Seeling"
+      },
+      {
+        "name": "Gottard",
+        "link": "/wiki/Gottard"
+      },
+      {
+        "name": "Graden",
+        "link": "/wiki/Graden"
+      },
+      {
+        "name": "Graham",
+        "link": "/wiki/Graham"
+      },
+      {
+        "name": "Gran",
+        "link": "/wiki/Gran"
+      },
+      {
+        "name": "Gravedigger (Lindenvale)",
+        "link": "/wiki/Gravedigger_(Lindenvale)"
+      },
+      {
+        "name": "Gregor",
+        "link": "/wiki/Gregor"
+      },
+      {
+        "name": "Gremist",
+        "link": "/wiki/Gremist"
+      },
+      {
+        "name": "Gretka",
+        "link": "/wiki/Gretka"
+      },
+      {
+        "name": "Grim",
+        "link": "/wiki/Grim"
+      },
+      {
+        "name": "Griswold",
+        "link": "/wiki/Griswold"
+      },
+      {
+        "name": "Grossbart Brothers",
+        "link": "/wiki/Grossbart_Brothers"
+      },
+      {
+        "name": "Gundar",
+        "link": "/wiki/Gundar"
+      },
+      {
+        "name": "Gus Meyer",
+        "link": "/wiki/Gus_Meyer"
+      },
+      {
+        "name": "Gustav Roene",
+        "link": "/wiki/Gustav_Roene"
+      },
+      {
+        "name": "Haddy",
+        "link": "/wiki/Haddy"
+      },
+      {
+        "name": "Hal",
+        "link": "/wiki/Hal"
+      },
+      {
+        "name": "Halbjorn",
+        "link": "/wiki/Halbjorn"
+      },
+      {
+        "name": "Hammond",
+        "link": "/wiki/Hammond"
+      },
+      {
+        "name": "Hanna",
+        "link": "/wiki/Hanna"
+      },
+      {
+        "name": "Hans of Cidaris",
+        "link": "/wiki/Hans_of_Cidaris"
+      },
+      {
+        "name": "Happen the Eunuch",
+        "link": "/wiki/Happen_the_Eunuch"
+      },
+      {
+        "name": "Harald (Fayrlund)",
+        "link": "/wiki/Harald_(Fayrlund)"
+      },
+      {
+        "name": "Harald an Tordarroch",
+        "link": "/wiki/Harald_an_Tordarroch"
+      },
+      {
+        "name": "Harald Featherbuns",
+        "link": "/wiki/Harald_Featherbuns"
+      },
+      {
+        "name": "Harmon aep Groenekan",
+        "link": "/wiki/Harmon_aep_Groenekan"
+      },
+      {
+        "name": "Havart var Moehoen",
+        "link": "/wiki/Havart_var_Moehoen"
+      },
+      {
+        "name": "Category:Hearts of Stone characters",
+        "link": "/wiki/Category:Hearts_of_Stone_characters"
+      },
+      {
+        "name": "Hegel Grossbart",
+        "link": "/wiki/Hegel_Grossbart"
+      },
+      {
+        "name": "Helma",
+        "link": "/wiki/Helma"
+      },
+      {
+        "name": "Hendrik",
+        "link": "/wiki/Hendrik"
+      },
+      {
+        "name": "Henri Rautlec",
+        "link": "/wiki/Henri_Rautlec"
+      },
+      {
+        "name": "Henry var Attre",
+        "link": "/wiki/Henry_var_Attre"
+      },
+      {
+        "name": "Herbalist",
+        "link": "/wiki/Herbalist"
+      },
+      {
+        "name": "Herbalist (campsite)",
+        "link": "/wiki/Herbalist_(campsite)"
+      },
+      {
+        "name": "Herbalist (Coronata)",
+        "link": "/wiki/Herbalist_(Coronata)"
+      },
+      {
+        "name": "Herbalist (Cunny of the Goose)",
+        "link": "/wiki/Herbalist_(Cunny_of_the_Goose)"
+      },
+      {
+        "name": "Herbalist (Druids' Camp)",
+        "link": "/wiki/Herbalist_(Druids%27_Camp)"
+      },
+      {
+        "name": "Herbalist (Glory Lane)",
+        "link": "/wiki/Herbalist_(Glory_Lane)"
+      },
+      {
+        "name": "Herbalist (Hangman's Alley)",
+        "link": "/wiki/Herbalist_(Hangman%27s_Alley)"
+      },
+      {
+        "name": "Herbalist (Hierarch Square)",
+        "link": "/wiki/Herbalist_(Hierarch_Square)"
+      },
+      {
+        "name": "Herbalist (Hortense Vineyard)",
+        "link": "/wiki/Herbalist_(Hortense_Vineyard)"
+      },
+      {
+        "name": "Herbalist (Kaer Trolde)",
+        "link": "/wiki/Herbalist_(Kaer_Trolde)"
+      },
+      {
+        "name": "Herbalist (Kvalheim Isle)",
+        "link": "/wiki/Herbalist_(Kvalheim_Isle)"
+      },
+      {
+        "name": "Herbalist (Liberated camp)",
+        "link": "/wiki/Herbalist_(Liberated_camp)"
+      },
+      {
+        "name": "Herbalist (Olena's Grove)",
+        "link": "/wiki/Herbalist_(Olena%27s_Grove)"
+      },
+      {
+        "name": "Herbalist (Refugees' Camp)",
+        "link": "/wiki/Herbalist_(Refugees%27_Camp)"
+      },
+      {
+        "name": "Herbalist (Ruined Inn)",
+        "link": "/wiki/Herbalist_(Ruined_Inn)"
+      },
+      {
+        "name": "Herbalist (Shrine)",
+        "link": "/wiki/Herbalist_(Shrine)"
+      },
+      {
+        "name": "Herbalist (Spitfire Bluff)",
+        "link": "/wiki/Herbalist_(Spitfire_Bluff)"
+      },
+      {
+        "name": "Herevard II",
+        "link": "/wiki/Herevard_II"
+      },
+      {
+        "name": "Hjalmar an Craite",
+        "link": "/wiki/Hjalmar_an_Craite"
+      },
+      {
+        "name": "Hjort",
+        "link": "/wiki/Hjort"
+      },
+      {
+        "name": "Holger Blackhand",
+        "link": "/wiki/Holger_Blackhand"
+      },
+      {
+        "name": "Holofernes Meiersdorf",
+        "link": "/wiki/Holofernes_Meiersdorf"
+      },
+      {
+        "name": "Hortensio",
+        "link": "/wiki/Hortensio"
+      },
+      {
+        "name": "Hrodeberth",
+        "link": "/wiki/Hrodeberth"
+      },
+      {
+        "name": "Hubert Rejk",
+        "link": "/wiki/Hubert_Rejk"
+      },
+      {
+        "name": "Hubrecht",
+        "link": "/wiki/Hubrecht"
+      },
+      {
+        "name": "Hunter (Lindenvale)",
+        "link": "/wiki/Hunter_(Lindenvale)"
+      },
+      {
+        "name": "Hussar",
+        "link": "/wiki/Hussar"
+      },
+      {
+        "name": "Ida Emean aep Sivney",
+        "link": "/wiki/Ida_Emean_aep_Sivney"
+      },
+      {
+        "name": "Igor (Fools' Gold)",
+        "link": "/wiki/Igor_(Fools%27_Gold)"
+      },
+      {
+        "name": "Igor de Sade",
+        "link": "/wiki/Igor_de_Sade"
+      },
+      {
+        "name": "Igor the Hook",
+        "link": "/wiki/Igor_the_Hook"
+      },
+      {
+        "name": "Ilge",
+        "link": "/wiki/Ilge"
+      },
+      {
+        "name": "Imlerith",
+        "link": "/wiki/Imlerith"
+      },
+      {
+        "name": "Ingrid Vegelbud",
+        "link": "/wiki/Ingrid_Vegelbud"
+      },
+      {
+        "name": "Innkeep (Cunny of the Goose)",
+        "link": "/wiki/Innkeep_(Cunny_of_the_Goose)"
+      },
+      {
+        "name": "Innkeep (Harviken)",
+        "link": "/wiki/Innkeep_(Harviken)"
+      },
+      {
+        "name": "Innkeep (Inn at the Crossroads)",
+        "link": "/wiki/Innkeep_(Inn_at_the_Crossroads)"
+      },
+      {
+        "name": "Innkeep (Larvik)",
+        "link": "/wiki/Innkeep_(Larvik)"
+      },
+      {
+        "name": "Innkeep (Lindenvale)",
+        "link": "/wiki/Innkeep_(Lindenvale)"
+      },
+      {
+        "name": "Innkeep (Rosemary and Thyme)",
+        "link": "/wiki/Innkeep_(Rosemary_and_Thyme)"
+      },
+      {
+        "name": "Innkeep (Seven Cats Inn)",
+        "link": "/wiki/Innkeep_(Seven_Cats_Inn)"
+      },
+      {
+        "name": "Innkeep (Svorlag)",
+        "link": "/wiki/Innkeep_(Svorlag)"
+      },
+      {
+        "name": "Innkeep (The Golden Sturgeon)",
+        "link": "/wiki/Innkeep_(The_Golden_Sturgeon)"
+      },
+      {
+        "name": "Innkeep (The Kingfisher)",
+        "link": "/wiki/Innkeep_(The_Kingfisher)"
+      },
+      {
+        "name": "Innkeep (The Nowhere Inn)",
+        "link": "/wiki/Innkeep_(The_Nowhere_Inn)"
+      },
+      {
+        "name": "Innkeep (Urialla Harbor)",
+        "link": "/wiki/Innkeep_(Urialla_Harbor)"
+      },
+      {
+        "name": "Irina Renarde",
+        "link": "/wiki/Irina_Renarde"
+      },
+      {
+        "name": "Iron Mortimer",
+        "link": "/wiki/Iron_Mortimer"
+      },
+      {
+        "name": "Iron-Arse Hans",
+        "link": "/wiki/Iron-Arse_Hans"
+      },
+      {
+        "name": "Ivar",
+        "link": "/wiki/Ivar"
+      },
+      {
+        "name": "Jad Karadin",
+        "link": "/wiki/Jad_Karadin"
+      },
+      {
+        "name": "Janne",
+        "link": "/wiki/Janne"
+      },
+      {
+        "name": "Jesse Grossbart",
+        "link": "/wiki/Jesse_Grossbart"
+      },
+      {
+        "name": "Jesse, Joe and Dodger",
+        "link": "/wiki/Jesse,_Joe_and_Dodger"
+      },
+      {
+        "name": "Joachim von Gratz",
+        "link": "/wiki/Joachim_von_Gratz"
+      },
+      {
+        "name": "John Geermer",
+        "link": "/wiki/John_Geermer"
+      },
+      {
+        "name": "John Verdun",
+        "link": "/wiki/John_Verdun"
+      },
+      {
+        "name": "Johnny",
+        "link": "/wiki/Johnny"
+      },
+      {
+        "name": "Jonah",
+        "link": "/wiki/Jonah"
+      },
+      {
+        "name": "Jonas the Innkeep",
+        "link": "/wiki/Jonas_the_Innkeep"
+      },
+      {
+        "name": "Jonna",
+        "link": "/wiki/Jonna"
+      },
+      {
+        "name": "Jorulf the Wolverine",
+        "link": "/wiki/Jorulf_the_Wolverine"
+      },
+      {
+        "name": "Josta",
+        "link": "/wiki/Josta"
+      },
+      {
+        "name": "Jouke",
+        "link": "/wiki/Jouke"
+      },
+      {
+        "name": "Jutta an Dimun",
+        "link": "/wiki/Jutta_an_Dimun"
+      },
+      {
+        "name": "Karli",
+        "link": "/wiki/Karli"
+      },
+      {
+        "name": "Keira Metz",
+        "link": "/wiki/Keira_Metz"
+      },
+      {
+        "name": "King of the Wild Hunt",
+        "link": "/wiki/King_of_the_Wild_Hunt"
+      },
+      {
+        "name": "King of the Wolves (creature)",
+        "link": "/wiki/King_of_the_Wolves_(creature)"
+      },
+      {
+        "name": "Kiyan",
+        "link": "/wiki/Kiyan"
+      },
+      {
+        "name": "Kluhg",
+        "link": "/wiki/Kluhg"
+      },
+      {
+        "name": "Kobe",
+        "link": "/wiki/Kobe"
+      },
+      {
+        "name": "Kori",
+        "link": "/wiki/Kori"
+      },
+      {
+        "name": "Kraki",
+        "link": "/wiki/Kraki"
+      },
+      {
+        "name": "Kurisu",
+        "link": "/wiki/Kurisu"
+      },
+      {
+        "name": "Kurt (witch hunter)",
+        "link": "/wiki/Kurt_(witch_hunter)"
+      },
+      {
+        "name": "Kurt Dysart",
+        "link": "/wiki/Kurt_Dysart"
+      },
+      {
+        "name": "La Valette Guard Captain",
+        "link": "/wiki/La_Valette_Guard_Captain"
+      },
+      {
+        "name": "Lambert",
+        "link": "/wiki/Lambert"
+      },
+      {
+        "name": "Leif",
+        "link": "/wiki/Leif"
+      },
+      {
+        "name": "Lena",
+        "link": "/wiki/Lena"
+      },
+      {
+        "name": "Leslav",
+        "link": "/wiki/Leslav"
+      },
+      {
+        "name": "Lessy",
+        "link": "/wiki/Lessy"
+      },
+      {
+        "name": "Letho",
+        "link": "/wiki/Letho"
+      },
+      {
+        "name": "Liesje",
+        "link": "/wiki/Liesje"
+      },
+      {
+        "name": "Lil' Bleater",
+        "link": "/wiki/Lil%27_Bleater"
+      },
+      {
+        "name": "Little Red (bandit)",
+        "link": "/wiki/Little_Red_(bandit)"
+      },
+      {
+        "name": "Loan Shark",
+        "link": "/wiki/Loan_Shark"
+      },
+      {
+        "name": "Lodrin",
+        "link": "/wiki/Lodrin"
+      },
+      {
+        "name": "Lothar (Tjalve's father)",
+        "link": "/wiki/Lothar_(Tjalve%27s_father)"
+      },
+      {
+        "name": "Louis (bandit)",
+        "link": "/wiki/Louis_(bandit)"
+      },
+      {
+        "name": "Luc Vegelbud",
+        "link": "/wiki/Luc_Vegelbud"
+      },
+      {
+        "name": "Lucas",
+        "link": "/wiki/Lucas"
+      },
+      {
+        "name": "Lugos Drummond (Blueboy)",
+        "link": "/wiki/Lugos_Drummond_(Blueboy)"
+      },
+      {
+        "name": "Lugos Drummond (Madman)",
+        "link": "/wiki/Lugos_Drummond_(Madman)"
+      },
+      {
+        "name": "Lund",
+        "link": "/wiki/Lund"
+      },
+      {
+        "name": "Lussi",
+        "link": "/wiki/Lussi"
+      },
+      {
+        "name": "Lyffned",
+        "link": "/wiki/Lyffned"
+      },
+      {
+        "name": "Madame (Crippled Kate's)",
+        "link": "/wiki/Madame_(Crippled_Kate%27s)"
+      },
+      {
+        "name": "Mandy",
+        "link": "/wiki/Mandy"
+      },
+      {
+        "name": "Manfred (merchant)",
+        "link": "/wiki/Manfred_(merchant)"
+      },
+      {
+        "name": "Manfred Grossbart",
+        "link": "/wiki/Manfred_Grossbart"
+      },
+      {
+        "name": "Marabella",
+        "link": "/wiki/Marabella"
+      },
+      {
+        "name": "Marcus T.K. Hodgson",
+        "link": "/wiki/Marcus_T.K._Hodgson"
+      },
+      {
+        "name": "Margarita Laux-Antille",
+        "link": "/wiki/Margarita_Laux-Antille"
+      },
+      {
+        "name": "Margrit",
+        "link": "/wiki/Margrit"
+      },
+      {
+        "name": "Maria Louisa La Valette",
+        "link": "/wiki/Maria_Louisa_La_Valette"
+      },
+      {
+        "name": "Marica",
+        "link": "/wiki/Marica"
+      },
+      {
+        "name": "Marius Florin",
+        "link": "/wiki/Marius_Florin"
+      },
+      {
+        "name": "Marquise Serenity",
+        "link": "/wiki/Marquise_Serenity"
+      },
+      {
+        "name": "Master Claytop",
+        "link": "/wiki/Master_Claytop"
+      },
+      {
+        "name": "Mathios",
+        "link": "/wiki/Mathios"
+      },
+      {
+        "name": "Maxim Boliere",
+        "link": "/wiki/Maxim_Boliere"
+      },
+      {
+        "name": "Medic (Novigrad Docks)",
+        "link": "/wiki/Medic_(Novigrad_Docks)"
+      },
+      {
+        "name": "Medic (Oxenfurt Morgue)",
+        "link": "/wiki/Medic_(Oxenfurt_Morgue)"
+      },
+      {
+        "name": "Merchant (Ard Skellig sawmill)",
+        "link": "/wiki/Merchant_(Ard_Skellig_sawmill)"
+      },
+      {
+        "name": "Merchant (Blackbough)",
+        "link": "/wiki/Merchant_(Blackbough)"
+      },
+      {
+        "name": "Merchant (Blandare)",
+        "link": "/wiki/Merchant_(Blandare)"
+      },
+      {
+        "name": "Merchant (Boatmakers' Hut)",
+        "link": "/wiki/Merchant_(Boatmakers%27_Hut)"
+      },
+      {
+        "name": "Merchant (boatyard)",
+        "link": "/wiki/Merchant_(boatyard)"
+      },
+      {
+        "name": "Merchant (Border Post)",
+        "link": "/wiki/Merchant_(Border_Post)"
+      },
+      {
+        "name": "Merchant (Calveit Watchtower)",
+        "link": "/wiki/Merchant_(Calveit_Watchtower)"
+      },
+      {
+        "name": "Merchant (campsite)",
+        "link": "/wiki/Merchant_(campsite)"
+      },
+      {
+        "name": "Merchant (Claywich)",
+        "link": "/wiki/Merchant_(Claywich)"
+      },
+      {
+        "name": "Merchant (Coast of Wrecks)",
+        "link": "/wiki/Merchant_(Coast_of_Wrecks)"
+      },
+      {
+        "name": "Merchant (Downwarren)",
+        "link": "/wiki/Merchant_(Downwarren)"
+      },
+      {
+        "name": "Merchant (Fayrlund)",
+        "link": "/wiki/Merchant_(Fayrlund)"
+      },
+      {
+        "name": "Merchant (Fish Market)",
+        "link": "/wiki/Merchant_(Fish_Market)"
+      },
+      {
+        "name": "Merchant (fishing village)",
+        "link": "/wiki/Merchant_(fishing_village)"
+      },
+      {
+        "name": "Merchant (fishmonger)",
+        "link": "/wiki/Merchant_(fishmonger)"
+      },
+      {
+        "name": "Merchant (Fyresdal)",
+        "link": "/wiki/Merchant_(Fyresdal)"
+      },
+      {
+        "name": "Merchant (Gildorf)",
+        "link": "/wiki/Merchant_(Gildorf)"
+      },
+      {
+        "name": "Merchant (halfling)",
+        "link": "/wiki/Merchant_(halfling)"
+      },
+      {
+        "name": "Merchant (Harviken)",
+        "link": "/wiki/Merchant_(Harviken)"
+      },
+      {
+        "name": "Merchant (Hierarch Square)",
+        "link": "/wiki/Merchant_(Hierarch_Square)"
+      },
+      {
+        "name": "Merchant (Holmstein's Port)",
+        "link": "/wiki/Merchant_(Holmstein%27s_Port)"
+      },
+      {
+        "name": "Merchant (Isolated Hut)",
+        "link": "/wiki/Merchant_(Isolated_Hut)"
+      },
+      {
+        "name": "Merchant (Kaer Trolde Harbor)",
+        "link": "/wiki/Merchant_(Kaer_Trolde_Harbor)"
+      },
+      {
+        "name": "Merchant (Larvik)",
+        "link": "/wiki/Merchant_(Larvik)"
+      },
+      {
+        "name": "Merchant (Lindenvale)",
+        "link": "/wiki/Merchant_(Lindenvale)"
+      },
+      {
+        "name": "Merchant (Midcopse)",
+        "link": "/wiki/Merchant_(Midcopse)"
+      },
+      {
+        "name": "Merchant (Mire Landing)",
+        "link": "/wiki/Merchant_(Mire_Landing)"
+      },
+      {
+        "name": "Merchant (Nilfgaardian Army Group 'Center' Camp)",
+        "link": "/wiki/Merchant_(Nilfgaardian_Army_Group_%27Center%27_Camp)"
+      },
+      {
+        "name": "Merchant (Oreton)",
+        "link": "/wiki/Merchant_(Oreton)"
+      },
+      {
+        "name": "Merchant (Oxenfurt)",
+        "link": "/wiki/Merchant_(Oxenfurt)"
+      },
+      {
+        "name": "Merchant (Putrid Grove)",
+        "link": "/wiki/Merchant_(Putrid_Grove)"
+      },
+      {
+        "name": "Merchant (Scoia'tael Crossroads)",
+        "link": "/wiki/Merchant_(Scoia%27tael_Crossroads)"
+      },
+      {
+        "name": "Merchant (Scoia'tael)",
+        "link": "/wiki/Merchant_(Scoia%27tael)"
+      },
+      {
+        "name": "Merchant (Silverton docks)",
+        "link": "/wiki/Merchant_(Silverton_docks)"
+      },
+      {
+        "name": "Merchant (Silverton)",
+        "link": "/wiki/Merchant_(Silverton)"
+      },
+      {
+        "name": "Merchant (Sund sawmill)",
+        "link": "/wiki/Merchant_(Sund_sawmill)"
+      },
+      {
+        "name": "Merchant (Svorlag)",
+        "link": "/wiki/Merchant_(Svorlag)"
+      },
+      {
+        "name": "Merchant (The Bits)",
+        "link": "/wiki/Merchant_(The_Bits)"
+      },
+      {
+        "name": "Merchant (Tretogor Gate)",
+        "link": "/wiki/Merchant_(Tretogor_Gate)"
+      },
+      {
+        "name": "Merchant (White Orchard sawmill)",
+        "link": "/wiki/Merchant_(White_Orchard_sawmill)"
+      },
+      {
+        "name": "The Witcher 3 merchants",
+        "link": "/wiki/The_Witcher_3_merchants"
+      },
+      {
+        "name": "Mercia",
+        "link": "/wiki/Mercia"
+      },
+      {
+        "name": "Mererid",
+        "link": "/wiki/Mererid"
+      },
+      {
+        "name": "Mikah",
+        "link": "/wiki/Mikah"
+      },
+      {
+        "name": "Mikkel (Skelliger)",
+        "link": "/wiki/Mikkel_(Skelliger)"
+      },
+      {
+        "name": "Mikkjal",
+        "link": "/wiki/Mikkjal"
+      },
+      {
+        "name": "Mikula (orphan)",
+        "link": "/wiki/Mikula_(orphan)"
+      },
+      {
+        "name": "Milan Noran",
+        "link": "/wiki/Milan_Noran"
+      },
+      {
+        "name": "Millie",
+        "link": "/wiki/Millie"
+      },
+      {
+        "name": "Mislav",
+        "link": "/wiki/Mislav"
+      },
+      {
+        "name": "Molly",
+        "link": "/wiki/Molly"
+      },
+      {
+        "name": "Moreelse",
+        "link": "/wiki/Moreelse"
+      },
+      {
+        "name": "Moritz Diefenthel",
+        "link": "/wiki/Moritz_Diefenthel"
+      },
+      {
+        "name": "Morkvarg",
+        "link": "/wiki/Morkvarg"
+      },
+      {
+        "name": "Morvran Voorhis",
+        "link": "/wiki/Morvran_Voorhis"
+      },
+      {
+        "name": "Mousesack",
+        "link": "/wiki/Mousesack"
+      },
+      {
+        "name": "Moving merchant",
+        "link": "/wiki/Moving_merchant"
+      },
+      {
+        "name": "Napp",
+        "link": "/wiki/Napp"
+      },
+      {
+        "name": "Narcissa",
+        "link": "/wiki/Narcissa"
+      },
+      {
+        "name": "Nathaniel Pastodi",
+        "link": "/wiki/Nathaniel_Pastodi"
+      },
+      {
+        "name": "Nidas",
+        "link": "/wiki/Nidas"
+      },
+      {
+        "name": "Niellen",
+        "link": "/wiki/Niellen"
+      },
+      {
+        "name": "Nikolas Friedman",
+        "link": "/wiki/Nikolas_Friedman"
+      },
+      {
+        "name": "Nilfgaardian Nobleman (Royal Palace at Vizima)",
+        "link": "/wiki/Nilfgaardian_Nobleman_(Royal_Palace_at_Vizima)"
+      },
+      {
+        "name": "Nissa",
+        "link": "/wiki/Nissa"
+      },
+      {
+        "name": "Nithral",
+        "link": "/wiki/Nithral"
+      },
+      {
+        "name": "Odhen",
+        "link": "/wiki/Odhen"
+      },
+      {
+        "name": "Odolan",
+        "link": "/wiki/Odolan"
+      },
+      {
+        "name": "Odrin",
+        "link": "/wiki/Odrin"
+      },
+      {
+        "name": "Ogg, Pogg and Rogg",
+        "link": "/wiki/Ogg,_Pogg_and_Rogg"
+      },
+      {
+        "name": "Olaf (bear)",
+        "link": "/wiki/Olaf_(bear)"
+      },
+      {
+        "name": "Olaf (guardsman)",
+        "link": "/wiki/Olaf_(guardsman)"
+      },
+      {
+        "name": "Old brickmaker",
+        "link": "/wiki/Old_brickmaker"
+      },
+      {
+        "name": "Old Sage",
+        "link": "/wiki/Old_Sage"
+      },
+      {
+        "name": "Old Woman (White Orchard)",
+        "link": "/wiki/Old_Woman_(White_Orchard)"
+      },
+      {
+        "name": "Ole-Kristian",
+        "link": "/wiki/Ole-Kristian"
+      },
+      {
+        "name": "Olivier",
+        "link": "/wiki/Olivier"
+      },
+      {
+        "name": "Orphans",
+        "link": "/wiki/Orphans"
+      },
+      {
+        "name": "Oswin",
+        "link": "/wiki/Oswin"
+      },
+      {
+        "name": "Otrygg an Hindar",
+        "link": "/wiki/Otrygg_an_Hindar"
+      },
+      {
+        "name": "Otto Bamber",
+        "link": "/wiki/Otto_Bamber"
+      },
+      {
+        "name": "Patricia Vegelbud",
+        "link": "/wiki/Patricia_Vegelbud"
+      },
+      {
+        "name": "Patrick Hazelnutt",
+        "link": "/wiki/Patrick_Hazelnutt"
+      },
+      {
+        "name": "Peter Saar Gwynleve",
+        "link": "/wiki/Peter_Saar_Gwynleve"
+      },
+      {
+        "name": "Petter",
+        "link": "/wiki/Petter"
+      },
+      {
+        "name": "Philippa Eilhart",
+        "link": "/wiki/Philippa_Eilhart"
+      },
+      {
+        "name": "Phillip Strenger",
+        "link": "/wiki/Phillip_Strenger"
+      },
+      {
+        "name": "Piet",
+        "link": "/wiki/Piet"
+      },
+      {
+        "name": "Polly",
+        "link": "/wiki/Polly"
+      },
+      {
+        "name": "Porter (Putrid Grove)",
+        "link": "/wiki/Porter_(Putrid_Grove)"
+      },
+      {
+        "name": "Preacher (Temple Isle)",
+        "link": "/wiki/Preacher_(Temple_Isle)"
+      },
+      {
+        "name": "Preben",
+        "link": "/wiki/Preben"
+      },
+      {
+        "name": "Princess (goat)",
+        "link": "/wiki/Princess_(goat)"
+      },
+      {
+        "name": "Priscilla",
+        "link": "/wiki/Priscilla"
+      },
+      {
+        "name": "Prison Warden",
+        "link": "/wiki/Prison_Warden"
+      },
+      {
+        "name": "Quartermaster (Crow's Perch)",
+        "link": "/wiki/Quartermaster_(Crow%27s_Perch)"
+      },
+      {
+        "name": "Quartermaster (Nilfgaardian Garrison)",
+        "link": "/wiki/Quartermaster_(Nilfgaardian_Garrison)"
+      },
+      {
+        "name": "Radko",
+        "link": "/wiki/Radko"
+      },
+      {
+        "name": "Radovid V",
+        "link": "/wiki/Radovid_V"
+      },
+      {
+        "name": "Ravik",
+        "link": "/wiki/Ravik"
+      },
+      {
+        "name": "Refugee (Benek)",
+        "link": "/wiki/Refugee_(Benek)"
+      },
+      {
+        "name": "Remi Villeroy",
+        "link": "/wiki/Remi_Villeroy"
+      },
+      {
+        "name": "Rhosyn",
+        "link": "/wiki/Rhosyn"
+      },
+      {
+        "name": "Rico Meiersdorf",
+        "link": "/wiki/Rico_Meiersdorf"
+      },
+      {
+        "name": "Roach",
+        "link": "/wiki/Roach"
+      },
+      {
+        "name": "Ronvid of the Small Marsh",
+        "link": "/wiki/Ronvid_of_the_Small_Marsh"
+      },
+      {
+        "name": "Rosa var Attre",
+        "link": "/wiki/Rosa_var_Attre"
+      },
+      {
+        "name": "Rostan Muggs",
+        "link": "/wiki/Rostan_Muggs"
+      },
+      {
+        "name": "Ruar",
+        "link": "/wiki/Ruar"
+      },
+      {
+        "name": "Rudolf de Jonkheer",
+        "link": "/wiki/Rudolf_de_Jonkheer"
+      },
+      {
+        "name": "Rufus",
+        "link": "/wiki/Rufus"
+      },
+      {
+        "name": "Rurik",
+        "link": "/wiki/Rurik"
+      },
+      {
+        "name": "Salma",
+        "link": "/wiki/Salma"
+      },
+      {
+        "name": "Sarah",
+        "link": "/wiki/Sarah"
+      },
+      {
+        "name": "Sergeant Ardal",
+        "link": "/wiki/Sergeant_Ardal"
+      },
+      {
+        "name": "Shady merchant",
+        "link": "/wiki/Shady_merchant"
+      },
+      {
+        "name": "Sheala de Tancarville",
+        "link": "/wiki/Sheala_de_Tancarville"
+      },
+      {
+        "name": "Sigismund Dijkstra",
+        "link": "/wiki/Sigismund_Dijkstra"
+      },
+      {
+        "name": "Sigo Buntz",
+        "link": "/wiki/Sigo_Buntz"
+      },
+      {
+        "name": "Sigurd",
+        "link": "/wiki/Sigurd"
+      },
+      {
+        "name": "Simun Brambling",
+        "link": "/wiki/Simun_Brambling"
+      },
+      {
+        "name": "Sjusta",
+        "link": "/wiki/Sjusta"
+      },
+      {
+        "name": "Skjall",
+        "link": "/wiki/Skjall"
+      },
+      {
+        "name": "Smith (Fyresdal)",
+        "link": "/wiki/Smith_(Fyresdal)"
+      },
+      {
+        "name": "Smith (Kaer Muire)",
+        "link": "/wiki/Smith_(Kaer_Muire)"
+      },
+      {
+        "name": "Smith (Svorlag)",
+        "link": "/wiki/Smith_(Svorlag)"
+      },
+      {
+        "name": "Smithy",
+        "link": "/wiki/Smithy"
+      },
+      {
+        "name": "Sofus the Bull",
+        "link": "/wiki/Sofus_the_Bull"
+      },
+      {
+        "name": "Stan Fishgulper",
+        "link": "/wiki/Stan_Fishgulper"
+      },
+      {
+        "name": "Steingrim",
+        "link": "/wiki/Steingrim"
+      },
+      {
+        "name": "Stjepan",
+        "link": "/wiki/Stjepan"
+      },
+      {
+        "name": "Stuttering Mattko",
+        "link": "/wiki/Stuttering_Mattko"
+      },
+      {
+        "name": "Succubus (Ard Skellig)",
+        "link": "/wiki/Succubus_(Ard_Skellig)"
+      },
+      {
+        "name": "Sukrus",
+        "link": "/wiki/Sukrus"
+      },
+      {
+        "name": "Survivor (Heatherton)",
+        "link": "/wiki/Survivor_(Heatherton)"
+      },
+      {
+        "name": "Suzy",
+        "link": "/wiki/Suzy"
+      },
+      {
+        "name": "Svana",
+        "link": "/wiki/Svana"
+      },
+      {
+        "name": "Svanrige Tuirseach",
+        "link": "/wiki/Svanrige_Tuirseach"
+      },
+      {
+        "name": "Sven (Fayrlund)",
+        "link": "/wiki/Sven_(Fayrlund)"
+      },
+      {
+        "name": "Sverre",
+        "link": "/wiki/Sverre"
+      },
+      {
+        "name": "Sweet Nettie",
+        "link": "/wiki/Sweet_Nettie"
+      },
+      {
+        "name": "Swordsmith (Mulbrydale)",
+        "link": "/wiki/Swordsmith_(Mulbrydale)"
+      },
+      {
+        "name": "Sylvester Amello",
+        "link": "/wiki/Sylvester_Amello"
+      },
+      {
+        "name": "Symko",
+        "link": "/wiki/Symko"
+      },
+      {
+        "name": "Tamara Strenger",
+        "link": "/wiki/Tamara_Strenger"
+      },
+      {
+        "name": "Tavar Eggebracht",
+        "link": "/wiki/Tavar_Eggebracht"
+      },
+      {
+        "name": "Thaler (spy)",
+        "link": "/wiki/Thaler_(spy)"
+      },
+      {
+        "name": "The Ghost in the Tree",
+        "link": "/wiki/The_Ghost_in_the_Tree"
+      },
+      {
+        "name": "The Mysterious Elf",
+        "link": "/wiki/The_Mysterious_Elf"
+      },
+      {
+        "name": "The Pellar",
+        "link": "/wiki/The_Pellar"
+      },
+      {
+        "name": "Category:The Witcher 3 cut characters",
+        "link": "/wiki/Category:The_Witcher_3_cut_characters"
+      },
+      {
+        "name": "Category:The Witcher 3 mentioned-only characters",
+        "link": "/wiki/Category:The_Witcher_3_mentioned-only_characters"
+      },
+      {
+        "name": "Thecla",
+        "link": "/wiki/Thecla"
+      },
+      {
+        "name": "Theophile Maria Rosco",
+        "link": "/wiki/Theophile_Maria_Rosco"
+      },
+      {
+        "name": "Thorleif",
+        "link": "/wiki/Thorleif"
+      },
+      {
+        "name": "Tim Knott",
+        "link": "/wiki/Tim_Knott"
+      },
+      {
+        "name": "Timmon",
+        "link": "/wiki/Timmon"
+      },
+      {
+        "name": "Tinboy",
+        "link": "/wiki/Tinboy"
+      },
+      {
+        "name": "Titus Gielas",
+        "link": "/wiki/Titus_Gielas"
+      },
+      {
+        "name": "Tjalve",
+        "link": "/wiki/Tjalve"
+      },
+      {
+        "name": "Tomira",
+        "link": "/wiki/Tomira"
+      },
+      {
+        "name": "Torgun",
+        "link": "/wiki/Torgun"
+      },
+      {
+        "name": "Tove",
+        "link": "/wiki/Tove"
+      },
+      {
+        "name": "Trader (Bald Mountain)",
+        "link": "/wiki/Trader_(Bald_Mountain)"
+      },
+      {
+        "name": "Trader (Crow's Perch)",
+        "link": "/wiki/Trader_(Crow%27s_Perch)"
+      },
+      {
+        "name": "Traveling trader (Velen)",
+        "link": "/wiki/Traveling_trader_(Velen)"
+      },
+      {
+        "name": "Travik",
+        "link": "/wiki/Travik"
+      },
+      {
+        "name": "Triss Merigold",
+        "link": "/wiki/Triss_Merigold"
+      },
+      {
+        "name": "Trollololo",
+        "link": "/wiki/Trollololo"
+      },
+      {
+        "name": "Trygvi",
+        "link": "/wiki/Trygvi"
+      },
+      {
+        "name": "Udalryk an Brokvar",
+        "link": "/wiki/Udalryk_an_Brokvar"
+      },
+      {
+        "name": "Ulf",
+        "link": "/wiki/Ulf"
+      },
+      {
+        "name": "Ulf (Timmon's brother)",
+        "link": "/wiki/Ulf_(Timmon%27s_brother)"
+      },
+      {
+        "name": "Ulle the Unlucky",
+        "link": "/wiki/Ulle_the_Unlucky"
+      },
+      {
+        "name": "Uma",
+        "link": "/wiki/Uma"
+      },
+      {
+        "name": "Uve",
+        "link": "/wiki/Uve"
+      },
+      {
+        "name": "Uve Jabberjaw",
+        "link": "/wiki/Uve_Jabberjaw"
+      },
+      {
+        "name": "Vagn",
+        "link": "/wiki/Vagn"
+      },
+      {
+        "name": "Vairmont Jonne",
+        "link": "/wiki/Vairmont_Jonne"
+      },
+      {
+        "name": "Valdo",
+        "link": "/wiki/Valdo"
+      },
+      {
+        "name": "Valgard",
+        "link": "/wiki/Valgard"
+      },
+      {
+        "name": "Valgridovt",
+        "link": "/wiki/Valgridovt"
+      },
+      {
+        "name": "Var Attre Guard Captain",
+        "link": "/wiki/Var_Attre_Guard_Captain"
+      },
+      {
+        "name": "Vernon Roche",
+        "link": "/wiki/Vernon_Roche"
+      },
+      {
+        "name": "Vernossiel",
+        "link": "/wiki/Vernossiel"
+      },
+      {
+        "name": "Ves",
+        "link": "/wiki/Ves"
+      },
+      {
+        "name": "Vesemir",
+        "link": "/wiki/Vesemir"
+      },
+      {
+        "name": "Vespula",
+        "link": "/wiki/Vespula"
+      },
+      {
+        "name": "Victor",
+        "link": "/wiki/Victor"
+      },
+      {
+        "name": "Vienne",
+        "link": "/wiki/Vienne"
+      },
+      {
+        "name": "Vigi the Loon",
+        "link": "/wiki/Vigi_the_Loon"
+      },
+      {
+        "name": "Viki",
+        "link": "/wiki/Viki"
+      },
+      {
+        "name": "Vilmar (druid)",
+        "link": "/wiki/Vilmar_(druid)"
+      },
+      {
+        "name": "Vimme Vivaldi",
+        "link": "/wiki/Vimme_Vivaldi"
+      },
+      {
+        "name": "Viola",
+        "link": "/wiki/Viola"
+      },
+      {
+        "name": "Vladimir de Cret",
+        "link": "/wiki/Vladimir_de_Cret"
+      },
+      {
+        "name": "Volund",
+        "link": "/wiki/Volund"
+      },
+      {
+        "name": "Voytek",
+        "link": "/wiki/Voytek"
+      },
+      {
+        "name": "Wallter",
+        "link": "/wiki/Wallter"
+      },
+      {
+        "name": "Weavess",
+        "link": "/wiki/Weavess"
+      },
+      {
+        "name": "Whispess",
+        "link": "/wiki/Whispess"
+      },
+      {
+        "name": "Whistling Wendy",
+        "link": "/wiki/Whistling_Wendy"
+      },
+      {
+        "name": "Willis",
+        "link": "/wiki/Willis"
+      },
+      {
+        "name": "Yagna",
+        "link": "/wiki/Yagna"
+      },
+      {
+        "name": "Yagoda",
+        "link": "/wiki/Yagoda"
+      },
+      {
+        "name": "Yamurlak (spy)",
+        "link": "/wiki/Yamurlak_(spy)"
+      },
+      {
+        "name": "Yanina",
+        "link": "/wiki/Yanina"
+      },
+      {
+        "name": "Yanna (The Witcher 3)",
+        "link": "/wiki/Yanna_(The_Witcher_3)"
+      },
+      {
+        "name": "Yanne",
+        "link": "/wiki/Yanne"
+      },
+      {
+        "name": "Yaren",
+        "link": "/wiki/Yaren"
+      },
+      {
+        "name": "Yennefer of Vengerberg",
+        "link": "/wiki/Yennefer_of_Vengerberg"
+      },
+      {
+        "name": "Yoana",
+        "link": "/wiki/Yoana"
+      },
+      {
+        "name": "Yolar",
+        "link": "/wiki/Yolar"
+      },
+      {
+        "name": "Yontek",
+        "link": "/wiki/Yontek"
+      },
+      {
+        "name": "Yorg",
+        "link": "/wiki/Yorg"
+      },
+      {
+        "name": "Yorg's sister",
+        "link": "/wiki/Yorg%27s_sister"
+      },
+      {
+        "name": "Zdenek",
+        "link": "/wiki/Zdenek"
+      },
+      {
+        "name": "Zoltan Chivay",
+        "link": "/wiki/Zoltan_Chivay"
+      }
+    ]
+  },
+  {
+    "name": "Bestiary",
+    "link": "https://witcher.fandom.com/wiki/Bestiary",
+    "submenu": [
+      {
+        "name": "Beasts",
+        "link": "#Beasts",
+        "submenu": [
+          {
+            "name": "Bears",
+            "link": "/wiki/Bear"
+          },
+          {
+            "name": "Big Bad Wolf ",
+            "link": "/wiki/Big_Bad_Wolf"
+          },
+          {
+            "name": "Dogs",
+            "link": "/wiki/Dog"
+          },
+          {
+            "name": "Panthers ",
+            "link": "/wiki/Panther"
+          },
+          {
+            "name": "The Beast of Beauclair ",
+            "link": "/wiki/The_Beast_of_Beauclair"
+          },
+          {
+            "name": "Three Little Pigs ",
+            "link": "/wiki/Three_Little_Pigs"
+          },
+          {
+            "name": "Wild boars ",
+            "link": "/wiki/Wild_boar"
+          },
+          {
+            "name": "Wolves",
+            "link": "/wiki/Wolf_(creature)"
+          },
+          {
+            "name": "Wargs",
+            "link": "/wiki/Warg"
+          }
+        ]
+      },
+      {
+        "name": "Cursed Ones",
+        "link": "#Cursed_Ones",
+        "submenu": [
+          {
+            "name": "Archespore ",
+            "link": "/wiki/Archespore"
+          },
+          {
+            "name": "Berserkers",
+            "link": "/wiki/Berserker_(creature)"
+          },
+          {
+            "name": "Botchlings",
+            "link": "/wiki/Botchling"
+          },
+          {
+            "name": "Lubberkin",
+            "link": "/wiki/Lubberkin"
+          },
+          {
+            "name": "The Toad Prince ",
+            "link": "/wiki/The_Toad_Prince"
+          },
+          {
+            "name": "Ulfhedinn",
+            "link": "/wiki/Ulfhedinn"
+          },
+          {
+            "name": "Werewolves",
+            "link": "/wiki/Werewolf"
+          }
+        ]
+      },
+      {
+        "name": "Draconids",
+        "link": "#Draconids",
+        "submenu": [
+          {
+            "name": "Basilisks",
+            "link": "/wiki/Basilisk"
+          },
+          {
+            "name": "Cockatrices",
+            "link": "/wiki/Cockatrice"
+          },
+          {
+            "name": "Forktails",
+            "link": "/wiki/Forktail"
+          },
+          {
+            "name": "Royal wyverns",
+            "link": "/wiki/Royal_wyvern"
+          },
+          {
+            "name": "Shrieker",
+            "link": "/wiki/Shrieker"
+          },
+          {
+            "name": "Silver Basilisk ",
+            "link": "/wiki/Silver_Basilisk"
+          },
+          {
+            "name": "Slyzards ",
+            "link": "/wiki/Slyzard"
+          },
+          {
+            "name": "Slyzard Matriarchs ",
+            "link": "/wiki/Slyzard_Matriarch"
+          },
+          {
+            "name": "The Dragon of Fyresdal",
+            "link": "/wiki/The_Dragon_of_Fyresdal"
+          },
+          {
+            "name": "Wyverns",
+            "link": "/wiki/Wyvern"
+          }
+        ]
+      },
+      {
+        "name": "Elementa",
+        "link": "#Elementa",
+        "submenu": [
+          {
+            "name": "Djinn",
+            "link": "/wiki/Djinn"
+          },
+          {
+            "name": "Earth Elemental",
+            "link": "/wiki/Earth_Elemental"
+          },
+          {
+            "name": "Fire Elemental",
+            "link": "/wiki/Fire_Elemental"
+          },
+          {
+            "name": "Gargoyle",
+            "link": "/wiki/Gargoyle"
+          },
+          {
+            "name": "Golem",
+            "link": "/wiki/Golem"
+          },
+          {
+            "name": "Hound of the Wild Hunt",
+            "link": "/wiki/Hound_of_the_Wild_Hunt"
+          },
+          {
+            "name": "Ice Elemental",
+            "link": "/wiki/Ice_Elemental"
+          },
+          {
+            "name": "Moreau's Golem ",
+            "link": "/wiki/Moreau%27s_Golem"
+          },
+          {
+            "name": "Pixies ",
+            "link": "/wiki/Pixies"
+          },
+          {
+            "name": "The Apiarian Phantom",
+            "link": "/wiki/The_Apiarian_Phantom"
+          },
+          {
+            "name": "Therazane",
+            "link": "/wiki/Therazane"
+          }
+        ]
+      },
+      {
+        "name": "Hybrids",
+        "link": "#Hybrids",
+        "submenu": [
+          {
+            "name": "Ekhidna",
+            "link": "/wiki/Ekhidna"
+          },
+          {
+            "name": "Erynia",
+            "link": "/wiki/Erynia"
+          },
+          {
+            "name": "Griffin",
+            "link": "/wiki/Griffin_(creature)"
+          },
+          {
+            "name": "Harpy",
+            "link": "/wiki/Harpy"
+          },
+          {
+            "name": "Melusine",
+            "link": "/wiki/Melusine"
+          },
+          {
+            "name": "Opinicus",
+            "link": "/wiki/Opinicus"
+          },
+          {
+            "name": "Salma",
+            "link": "/wiki/Salma"
+          },
+          {
+            "name": "Siren",
+            "link": "/wiki/Siren"
+          },
+          {
+            "name": "Succubus",
+            "link": "/wiki/Succubus"
+          }
+        ]
+      },
+      {
+        "name": "Insectoids",
+        "link": "#Insectoids",
+        "submenu": [
+          {
+            "name": "Arachasae",
+            "link": "/wiki/Arachas"
+          },
+          {
+            "name": "Arachnomorphs ",
+            "link": "/wiki/Arachnomorph"
+          },
+          {
+            "name": "Armored arachasae",
+            "link": "/wiki/Armored_arachas"
+          },
+          {
+            "name": "Endrega drones",
+            "link": "/wiki/Endrega_drone"
+          },
+          {
+            "name": "Endrega warriors",
+            "link": "/wiki/Endrega_warrior"
+          },
+          {
+            "name": "Endrega workers",
+            "link": "/wiki/Endrega_worker"
+          },
+          {
+            "name": "Giant centipedes ",
+            "link": "/wiki/Giant_centipede"
+          },
+          {
+            "name": "Harrisi",
+            "link": "/wiki/Harrisi"
+          },
+          {
+            "name": "Kikimore ",
+            "link": "/wiki/Kikimore"
+          },
+          {
+            "name": "Kikimore workers ",
+            "link": "/wiki/Kikimore_worker"
+          },
+          {
+            "name": "Pale Widows ",
+            "link": "/wiki/Pale_Widow"
+          },
+          {
+            "name": "Sandcrabs",
+            "link": "/wiki/Sandcrab"
+          },
+          {
+            "name": "Venomous arachasae",
+            "link": "/wiki/Venomous_arachas"
+          }
+        ]
+      },
+      {
+        "name": "Necrophages",
+        "link": "#Necrophages",
+        "submenu": [
+          {
+            "name": "Abaya",
+            "link": "/wiki/Abaya"
+          },
+          {
+            "name": "Alghoul",
+            "link": "/wiki/Alghoul"
+          },
+          {
+            "name": "Devourer",
+            "link": "/wiki/Devourer"
+          },
+          {
+            "name": "Drowner",
+            "link": "/wiki/Drowner"
+          },
+          {
+            "name": "Drowned dead",
+            "link": "/wiki/Drowned_dead"
+          },
+          {
+            "name": "Foglet",
+            "link": "/wiki/Foglet"
+          },
+          {
+            "name": "Ghoul",
+            "link": "/wiki/Ghoul"
+          },
+          {
+            "name": "Grave hag",
+            "link": "/wiki/Grave_hag"
+          },
+          {
+            "name": "Ignis Fatuus",
+            "link": "/wiki/Ignis_Fatuus"
+          },
+          {
+            "name": "Mourntart",
+            "link": "/wiki/Mourntart"
+          },
+          {
+            "name": "Mucknixer",
+            "link": "/wiki/Mucknixer"
+          },
+          {
+            "name": "Rotfiend",
+            "link": "/wiki/Rotfiend"
+          },
+          {
+            "name": "Scurver ",
+            "link": "/wiki/Scurver"
+          },
+          {
+            "name": "Spotted wight ",
+            "link": "/wiki/Spotted_wight"
+          },
+          {
+            "name": "Water hag",
+            "link": "/wiki/Water_hag"
+          },
+          {
+            "name": "Wight ",
+            "link": "/wiki/Wight_(creature)"
+          }
+        ]
+      },
+      {
+        "name": "Ogroids",
+        "link": "#Ogroids",
+        "submenu": [
+          {
+            "name": "Cloud Giant ",
+            "link": "/wiki/Cloud_Giant"
+          },
+          {
+            "name": "Cyclopses",
+            "link": "/wiki/Cyclops"
+          },
+          {
+            "name": "Golyat ",
+            "link": "/wiki/Golyat"
+          },
+          {
+            "name": "Hagubman",
+            "link": "/wiki/Hagubman"
+          },
+          {
+            "name": "Ice giant",
+            "link": "/wiki/Ice_giant"
+          },
+          {
+            "name": "Ice troll",
+            "link": "/wiki/Ice_troll"
+          },
+          {
+            "name": "Nekkers",
+            "link": "/wiki/Nekker"
+          },
+          {
+            "name": "Rock troll",
+            "link": "/wiki/Rock_troll"
+          },
+          {
+            "name": "Wham-a-Wham",
+            "link": "/wiki/Wham-a-Wham"
+          }
+        ]
+      },
+      {
+        "name": "Relicts",
+        "link": "#Relicts",
+        "submenu": [
+          {
+            "name": "Chorts",
+            "link": "/wiki/Chort"
+          },
+          {
+            "name": "Crones",
+            "link": "/wiki/Crones"
+          },
+          {
+            "name": "Doppler",
+            "link": "/wiki/Doppler"
+          },
+          {
+            "name": "Fiends",
+            "link": "/wiki/Fiend"
+          },
+          {
+            "name": "Fugas",
+            "link": "/wiki/Fugas"
+          },
+          {
+            "name": "Godling",
+            "link": "/wiki/Godling"
+          },
+          {
+            "name": "Grottore ",
+            "link": "/wiki/Grottore"
+          },
+          {
+            "name": "Howler",
+            "link": "/wiki/Howler"
+          },
+          {
+            "name": "Imp",
+            "link": "/wiki/Imp"
+          },
+          {
+            "name": "Kernun",
+            "link": "/wiki/Kernun"
+          },
+          {
+            "name": "Leshen",
+            "link": "/wiki/Leshen"
+          },
+          {
+            "name": "Morvudd",
+            "link": "/wiki/Morvudd"
+          },
+          {
+            "name": "Shaelmaar ",
+            "link": "/wiki/Shaelmaar"
+          },
+          {
+            "name": "Shaelmaar from the Emperor of Nilfgaard ",
+            "link": "/wiki/Shaelmaar_from_the_Emperor_of_Nilfgaard"
+          },
+          {
+            "name": "Spriggans ",
+            "link": "/wiki/Spriggan"
+          },
+          {
+            "name": "Sylvans",
+            "link": "/wiki/Sylvan"
+          },
+          {
+            "name": "The Caretaker ",
+            "link": "/wiki/The_Caretaker"
+          },
+          {
+            "name": "The Monster of Tufo ",
+            "link": "/wiki/The_Monster_of_Tufo"
+          },
+          {
+            "name": "Wicked Witch ",
+            "link": "/wiki/Wicked_Witch"
+          },
+          {
+            "name": "Woodland Spirit",
+            "link": "/wiki/Woodland_Spirit"
+          }
+        ]
+      },
+      {
+        "name": "Specters",
+        "link": "#Specters",
+        "submenu": [
+          {
+            "name": "Barghest ",
+            "link": "/wiki/Barghest"
+          },
+          {
+            "name": "Banshee ",
+            "link": "/wiki/Banshee"
+          },
+          {
+            "name": "Daphne's Wraith ",
+            "link": "/wiki/Daphne%27s_Wraith"
+          },
+          {
+            "name": "Devil by the Well",
+            "link": "/wiki/Devil_by_the_Well"
+          },
+          {
+            "name": "Ethereal ",
+            "link": "/wiki/Ethereal"
+          },
+          {
+            "name": "Hym",
+            "link": "/wiki/Hym"
+          },
+          {
+            "name": "Jenny o' the Woods",
+            "link": "/wiki/Jenny_o%27_the_Woods"
+          },
+          {
+            "name": "Longlocks ",
+            "link": "/wiki/Longlocks"
+          },
+          {
+            "name": "Nightwraith",
+            "link": "/wiki/Nightwraith"
+          },
+          {
+            "name": "Noonwraith",
+            "link": "/wiki/Noonwraith"
+          },
+          {
+            "name": "Penitent",
+            "link": "/wiki/Penitent"
+          },
+          {
+            "name": "Plague maiden",
+            "link": "/wiki/Plague_maiden"
+          },
+          {
+            "name": "Umbra ",
+            "link": "/wiki/Umbra"
+          },
+          {
+            "name": "The White Lady",
+            "link": "/wiki/The_White_Lady"
+          },
+          {
+            "name": "The Wraith from the Painting ",
+            "link": "/wiki/The_Wraith_from_the_Painting"
+          },
+          {
+            "name": "Wraith",
+            "link": "/wiki/Wraith"
+          }
+        ]
+      },
+      {
+        "name": "Vampires",
+        "link": "#Vampires",
+        "submenu": [
+          {
+            "name": "Alpha Garkain ",
+            "link": "/wiki/Alpha_Garkain"
+          },
+          {
+            "name": "Alp ",
+            "link": "/wiki/Alp"
+          },
+          {
+            "name": "Bruxa ",
+            "link": "/wiki/Bruxa"
+          },
+          {
+            "name": "Dettlaff van der Eretein ",
+            "link": "/wiki/Dettlaff_van_der_Eretein"
+          },
+          {
+            "name": "Ekimmara",
+            "link": "/wiki/Ekimmara"
+          },
+          {
+            "name": "Fleder ",
+            "link": "/wiki/Fleder"
+          },
+          {
+            "name": "Gael",
+            "link": "/wiki/Gael"
+          },
+          {
+            "name": "Garkain ",
+            "link": "/wiki/Garkain"
+          },
+          {
+            "name": "Higher Vampire",
+            "link": "/wiki/Higher_Vampire"
+          },
+          {
+            "name": "Katakan",
+            "link": "/wiki/Katakan"
+          },
+          {
+            "name": "Protofleder ",
+            "link": "/wiki/Protofleder"
+          },
+          {
+            "name": "Sarasti",
+            "link": "/wiki/Sarasti"
+          },
+          {
+            "name": "The Bruxa of Corvo Bianco ",
+            "link": "/wiki/The_Bruxa_of_Corvo_Bianco"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Locations",
+    "link": "https://witcher.fandom.com/wiki/Category:Locations",
+    "submenu": [
+      {
+        "name": "Abandoned site",
+        "link": "/wiki/Abandoned_site"
+      },
+      {
+        "name": "Bandit Camp",
+        "link": "/wiki/Bandit_Camp"
+      },
+      {
+        "name": "Cave (disambiguation)",
+        "link": "/wiki/Cave_(disambiguation)"
+      },
+      {
+        "name": "Inns and taverns",
+        "link": "/wiki/Inns_and_taverns"
+      },
+      {
+        "name": "Person(s) in distress",
+        "link": "/wiki/Person(s)_in_distress"
+      },
+      {
+        "name": "Place of Power",
+        "link": "/wiki/Place_of_Power"
+      },
+      {
+        "name": "Spoils of War",
+        "link": "/wiki/Spoils_of_War"
+      },
+      {
+        "name": "The Witcher 3 locations",
+        "link": "/wiki/The_Witcher_3_locations"
+      },
+      {
+        "name": "Abandoned Sawmill (location)",
+        "link": "/wiki/Abandoned_Sawmill_(location)"
+      },
+      {
+        "name": "Abandoned site (boatyard)",
+        "link": "/wiki/Abandoned_site_(boatyard)"
+      },
+      {
+        "name": "Abandoned site (campsite)",
+        "link": "/wiki/Abandoned_site_(campsite)"
+      },
+      {
+        "name": "Abandoned site (Spitfire Bluff)",
+        "link": "/wiki/Abandoned_site_(Spitfire_Bluff)"
+      },
+      {
+        "name": "Abandoned Tower",
+        "link": "/wiki/Abandoned_Tower"
+      },
+      {
+        "name": "Abandoned Village (Undvik)",
+        "link": "/wiki/Abandoned_Village_(Undvik)"
+      },
+      {
+        "name": "Abandoned Village (White Orchard)",
+        "link": "/wiki/Abandoned_Village_(White_Orchard)"
+      },
+      {
+        "name": "Aeramas' Abandoned Manor",
+        "link": "/wiki/Aeramas%27_Abandoned_Manor"
+      },
+      {
+        "name": "Alness",
+        "link": "/wiki/Alness"
+      },
+      {
+        "name": "Amavet Fortress Ruins",
+        "link": "/wiki/Amavet_Fortress_Ruins"
+      },
+      {
+        "name": "An Skellig",
+        "link": "/wiki/An_Skellig"
+      },
+      {
+        "name": "Ancient Crypt",
+        "link": "/wiki/Ancient_Crypt"
+      },
+      {
+        "name": "Ancient Oak",
+        "link": "/wiki/Ancient_Oak"
+      },
+      {
+        "name": "Ard Skellig",
+        "link": "/wiki/Ard_Skellig"
+      },
+      {
+        "name": "Arette",
+        "link": "/wiki/Arette"
+      },
+      {
+        "name": "Arinbjorn",
+        "link": "/wiki/Arinbjorn"
+      },
+      {
+        "name": "Bald Mountain (location)",
+        "link": "/wiki/Bald_Mountain_(location)"
+      },
+      {
+        "name": "Bald Mountain (region)",
+        "link": "/wiki/Bald_Mountain_(region)"
+      },
+      {
+        "name": "Bandits' Camp",
+        "link": "/wiki/Bandits%27_Camp"
+      },
+      {
+        "name": "Baroness la Valette's Villa",
+        "link": "/wiki/Baroness_la_Valette%27s_Villa"
+      },
+      {
+        "name": "Bastion",
+        "link": "/wiki/Bastion"
+      },
+      {
+        "name": "Battlefield (White Orchard)",
+        "link": "/wiki/Battlefield_(White_Orchard)"
+      },
+      {
+        "name": "Bay Of Winds",
+        "link": "/wiki/Bay_Of_Winds"
+      },
+      {
+        "name": "Benek",
+        "link": "/wiki/Benek"
+      },
+      {
+        "name": "Bird Island",
+        "link": "/wiki/Bird_Island"
+      },
+      {
+        "name": "Blackbough",
+        "link": "/wiki/Blackbough"
+      },
+      {
+        "name": "Blandare",
+        "link": "/wiki/Blandare"
+      },
+      {
+        "name": "Category:Blood and Wine locations",
+        "link": "/wiki/Category:Blood_and_Wine_locations"
+      },
+      {
+        "name": "Boatmakers' Hut",
+        "link": "/wiki/Boatmakers%27_Hut"
+      },
+      {
+        "name": "Books and Scrolls",
+        "link": "/wiki/Books_and_Scrolls"
+      },
+      {
+        "name": "Border Post",
+        "link": "/wiki/Border_Post"
+      },
+      {
+        "name": "Boxholm",
+        "link": "/wiki/Boxholm"
+      },
+      {
+        "name": "Bridge to Kaer Trolde",
+        "link": "/wiki/Bridge_to_Kaer_Trolde"
+      },
+      {
+        "name": "Broken Bridge",
+        "link": "/wiki/Broken_Bridge"
+      },
+      {
+        "name": "Burned Ruins",
+        "link": "/wiki/Burned_Ruins"
+      },
+      {
+        "name": "Byways",
+        "link": "/wiki/Byways"
+      },
+      {
+        "name": "Cackler Bridge",
+        "link": "/wiki/Cackler_Bridge"
+      },
+      {
+        "name": "Caesar Bilzen's house",
+        "link": "/wiki/Caesar_Bilzen%27s_house"
+      },
+      {
+        "name": "Calveit Watchtower",
+        "link": "/wiki/Calveit_Watchtower"
+      },
+      {
+        "name": "Carsten",
+        "link": "/wiki/Carsten"
+      },
+      {
+        "name": "Castle Tuirseach",
+        "link": "/wiki/Castle_Tuirseach"
+      },
+      {
+        "name": "Cave of Dreams",
+        "link": "/wiki/Cave_of_Dreams"
+      },
+      {
+        "name": "Cavern",
+        "link": "/wiki/Cavern"
+      },
+      {
+        "name": "Circle of Elements",
+        "link": "/wiki/Circle_of_Elements"
+      },
+      {
+        "name": "Clan Tordarroch Forge",
+        "link": "/wiki/Clan_Tordarroch_Forge"
+      },
+      {
+        "name": "Claywich",
+        "link": "/wiki/Claywich"
+      },
+      {
+        "name": "Cleaver's Headquarters",
+        "link": "/wiki/Cleaver%27s_Headquarters"
+      },
+      {
+        "name": "Coast of Wrecks",
+        "link": "/wiki/Coast_of_Wrecks"
+      },
+      {
+        "name": "Codgers' Quarry",
+        "link": "/wiki/Codgers%27_Quarry"
+      },
+      {
+        "name": "Condyle",
+        "link": "/wiki/Condyle"
+      },
+      {
+        "name": "Crematory",
+        "link": "/wiki/Crematory"
+      },
+      {
+        "name": "Crippled Kate's",
+        "link": "/wiki/Crippled_Kate%27s"
+      },
+      {
+        "name": "Crookback Bog",
+        "link": "/wiki/Crookback_Bog"
+      },
+      {
+        "name": "Crossroads (Ard Skellig)",
+        "link": "/wiki/Crossroads_(Ard_Skellig)"
+      },
+      {
+        "name": "Crossroads (Novigrad)",
+        "link": "/wiki/Crossroads_(Novigrad)"
+      },
+      {
+        "name": "Crossroads (Velen)",
+        "link": "/wiki/Crossroads_(Velen)"
+      },
+      {
+        "name": "Crossroads (White Orchard)",
+        "link": "/wiki/Crossroads_(White_Orchard)"
+      },
+      {
+        "name": "Crow's Perch",
+        "link": "/wiki/Crow%27s_Perch"
+      },
+      {
+        "name": "Crow's Perch (region)",
+        "link": "/wiki/Crow%27s_Perch_(region)"
+      },
+      {
+        "name": "Cunny of the Goose",
+        "link": "/wiki/Cunny_of_the_Goose"
+      },
+      {
+        "name": "Dalvik",
+        "link": "/wiki/Dalvik"
+      },
+      {
+        "name": "Dancing Windmill",
+        "link": "/wiki/Dancing_Windmill"
+      },
+      {
+        "name": "Ddiddiwedht Desert",
+        "link": "/wiki/Ddiddiwedht_Desert"
+      },
+      {
+        "name": "Deireadh prison",
+        "link": "/wiki/Deireadh_prison"
+      },
+      {
+        "name": "Destroyed Bastion",
+        "link": "/wiki/Destroyed_Bastion"
+      },
+      {
+        "name": "Devil's Pit",
+        "link": "/wiki/Devil%27s_Pit"
+      },
+      {
+        "name": "Distillery",
+        "link": "/wiki/Distillery"
+      },
+      {
+        "name": "Dorve Ruins",
+        "link": "/wiki/Dorve_Ruins"
+      },
+      {
+        "name": "Downwarren",
+        "link": "/wiki/Downwarren"
+      },
+      {
+        "name": "Dragonslayer's Grotto",
+        "link": "/wiki/Dragonslayer%27s_Grotto"
+      },
+      {
+        "name": "Drahim Castle",
+        "link": "/wiki/Drahim_Castle"
+      },
+      {
+        "name": "Drudge",
+        "link": "/wiki/Drudge"
+      },
+      {
+        "name": "Druids' Camp",
+        "link": "/wiki/Druids%27_Camp"
+      },
+      {
+        "name": "Duén Hen",
+        "link": "/wiki/Du%C3%A9n_Hen"
+      },
+      {
+        "name": "Eldberg Lighthouse",
+        "link": "/wiki/Eldberg_Lighthouse"
+      },
+      {
+        "name": "Electors' Square",
+        "link": "/wiki/Electors%27_Square"
+      },
+      {
+        "name": "Elihal's workshop",
+        "link": "/wiki/Elihal%27s_workshop"
+      },
+      {
+        "name": "Elverum Lighthouse",
+        "link": "/wiki/Elverum_Lighthouse"
+      },
+      {
+        "name": "Est Tayiar",
+        "link": "/wiki/Est_Tayiar"
+      },
+      {
+        "name": "Eternal Fire Chapel",
+        "link": "/wiki/Eternal_Fire_Chapel"
+      },
+      {
+        "name": "Eternal Fire shrine (Novigrad)",
+        "link": "/wiki/Eternal_Fire_shrine_(Novigrad)"
+      },
+      {
+        "name": "Farcorners",
+        "link": "/wiki/Farcorners"
+      },
+      {
+        "name": "Faroe Isle",
+        "link": "/wiki/Faroe_Isle"
+      },
+      {
+        "name": "Fayrlund",
+        "link": "/wiki/Fayrlund"
+      },
+      {
+        "name": "Ferry Station",
+        "link": "/wiki/Ferry_Station"
+      },
+      {
+        "name": "Fireburst Harbor",
+        "link": "/wiki/Fireburst_Harbor"
+      },
+      {
+        "name": "Fish Market",
+        "link": "/wiki/Fish_Market"
+      },
+      {
+        "name": "Floating Market",
+        "link": "/wiki/Floating_Market"
+      },
+      {
+        "name": "Flying Stag",
+        "link": "/wiki/Flying_Stag"
+      },
+      {
+        "name": "Ford",
+        "link": "/wiki/Ford"
+      },
+      {
+        "name": "Forest Hut",
+        "link": "/wiki/Forest_Hut"
+      },
+      {
+        "name": "Fornhala",
+        "link": "/wiki/Fornhala"
+      },
+      {
+        "name": "Fort Etnir",
+        "link": "/wiki/Fort_Etnir"
+      },
+      {
+        "name": "Fort Grymmdjarr",
+        "link": "/wiki/Fort_Grymmdjarr"
+      },
+      {
+        "name": "Frischlow",
+        "link": "/wiki/Frischlow"
+      },
+      {
+        "name": "Fyke Isle",
+        "link": "/wiki/Fyke_Isle"
+      },
+      {
+        "name": "Fyresdal",
+        "link": "/wiki/Fyresdal"
+      },
+      {
+        "name": "Gate of the Hierarch",
+        "link": "/wiki/Gate_of_the_Hierarch"
+      },
+      {
+        "name": "Gedyneith",
+        "link": "/wiki/Gedyneith"
+      },
+      {
+        "name": "Giants' Toes",
+        "link": "/wiki/Giants%27_Toes"
+      },
+      {
+        "name": "Gildorf",
+        "link": "/wiki/Gildorf"
+      },
+      {
+        "name": "Glory Gate",
+        "link": "/wiki/Glory_Gate"
+      },
+      {
+        "name": "Glory Lane",
+        "link": "/wiki/Glory_Lane"
+      },
+      {
+        "name": "Grassy Knoll",
+        "link": "/wiki/Grassy_Knoll"
+      },
+      {
+        "name": "Grayrocks",
+        "link": "/wiki/Grayrocks"
+      },
+      {
+        "name": "Great Temple of the Eternal Fire",
+        "link": "/wiki/Great_Temple_of_the_Eternal_Fire"
+      },
+      {
+        "name": "Grotto (Ard Skellig)",
+        "link": "/wiki/Grotto_(Ard_Skellig)"
+      },
+      {
+        "name": "Grotto (Velen)",
+        "link": "/wiki/Grotto_(Velen)"
+      },
+      {
+        "name": "Grymmdjarr Monument",
+        "link": "/wiki/Grymmdjarr_Monument"
+      },
+      {
+        "name": "Guildenstern bridge",
+        "link": "/wiki/Guildenstern_bridge"
+      },
+      {
+        "name": "Gull Point",
+        "link": "/wiki/Gull_Point"
+      },
+      {
+        "name": "Gustfields",
+        "link": "/wiki/Gustfields"
+      },
+      {
+        "name": "Gustfields Farm",
+        "link": "/wiki/Gustfields_Farm"
+      },
+      {
+        "name": "Halver Isle",
+        "link": "/wiki/Halver_Isle"
+      },
+      {
+        "name": "Hanged Man's Tree",
+        "link": "/wiki/Hanged_Man%27s_Tree"
+      },
+      {
+        "name": "Hangman's Alley",
+        "link": "/wiki/Hangman%27s_Alley"
+      },
+      {
+        "name": "Harbor",
+        "link": "/wiki/Harbor"
+      },
+      {
+        "name": "Harborside",
+        "link": "/wiki/Harborside"
+      },
+      {
+        "name": "Harpy Feeding Ground",
+        "link": "/wiki/Harpy_Feeding_Ground"
+      },
+      {
+        "name": "Harviken",
+        "link": "/wiki/Harviken"
+      },
+      {
+        "name": "Hattori's home",
+        "link": "/wiki/Hattori%27s_home"
+      },
+      {
+        "name": "Category:Hearts of Stone locations",
+        "link": "/wiki/Category:Hearts_of_Stone_locations"
+      },
+      {
+        "name": "Heatherton",
+        "link": "/wiki/Heatherton"
+      },
+      {
+        "name": "Henge",
+        "link": "/wiki/Henge"
+      },
+      {
+        "name": "Herbalist's Hut",
+        "link": "/wiki/Herbalist%27s_Hut"
+      },
+      {
+        "name": "Hierarch Square",
+        "link": "/wiki/Hierarch_Square"
+      },
+      {
+        "name": "Hindar",
+        "link": "/wiki/Hindar"
+      },
+      {
+        "name": "Hindarsfjall",
+        "link": "/wiki/Hindarsfjall"
+      },
+      {
+        "name": "Hindhold",
+        "link": "/wiki/Hindhold"
+      },
+      {
+        "name": "HMS Oxenfurt-Tretogor",
+        "link": "/wiki/HMS_Oxenfurt-Tretogor"
+      },
+      {
+        "name": "Holmstein",
+        "link": "/wiki/Holmstein"
+      },
+      {
+        "name": "Holmstein's Port",
+        "link": "/wiki/Holmstein%27s_Port"
+      },
+      {
+        "name": "Honeyfill Meadworks",
+        "link": "/wiki/Honeyfill_Meadworks"
+      },
+      {
+        "name": "Honorton",
+        "link": "/wiki/Honorton"
+      },
+      {
+        "name": "Hotsch Woods",
+        "link": "/wiki/Hotsch_Woods"
+      },
+      {
+        "name": "House of Respite",
+        "link": "/wiki/House_of_Respite"
+      },
+      {
+        "name": "Hov",
+        "link": "/wiki/Hov"
+      },
+      {
+        "name": "Ice Giant's Ship",
+        "link": "/wiki/Ice_Giant%27s_Ship"
+      },
+      {
+        "name": "Ice Plains",
+        "link": "/wiki/Ice_Plains"
+      },
+      {
+        "name": "Ingdalen Isle",
+        "link": "/wiki/Ingdalen_Isle"
+      },
+      {
+        "name": "Inn at the Crossroads",
+        "link": "/wiki/Inn_at_the_Crossroads"
+      },
+      {
+        "name": "Iron Mine",
+        "link": "/wiki/Iron_Mine"
+      },
+      {
+        "name": "Isle of Mists",
+        "link": "/wiki/Isle_of_Mists"
+      },
+      {
+        "name": "Isolated Hut",
+        "link": "/wiki/Isolated_Hut"
+      },
+      {
+        "name": "Isolated Hut (Hindarsfjall)",
+        "link": "/wiki/Isolated_Hut_(Hindarsfjall)"
+      },
+      {
+        "name": "Isolated Shack",
+        "link": "/wiki/Isolated_Shack"
+      },
+      {
+        "name": "Kaer Almhult",
+        "link": "/wiki/Kaer_Almhult"
+      },
+      {
+        "name": "Kaer Dhu",
+        "link": "/wiki/Kaer_Dhu"
+      },
+      {
+        "name": "Kaer Gelen",
+        "link": "/wiki/Kaer_Gelen"
+      },
+      {
+        "name": "Kaer Morhen",
+        "link": "/wiki/Kaer_Morhen"
+      },
+      {
+        "name": "Kaer Morhen valley",
+        "link": "/wiki/Kaer_Morhen_valley"
+      },
+      {
+        "name": "Kaer Muire",
+        "link": "/wiki/Kaer_Muire"
+      },
+      {
+        "name": "Kaer Nyssen",
+        "link": "/wiki/Kaer_Nyssen"
+      },
+      {
+        "name": "Kaer Trolde",
+        "link": "/wiki/Kaer_Trolde"
+      },
+      {
+        "name": "Kaer Trolde citadel",
+        "link": "/wiki/Kaer_Trolde_citadel"
+      },
+      {
+        "name": "Kaer Trolde Harbor",
+        "link": "/wiki/Kaer_Trolde_Harbor"
+      },
+      {
+        "name": "Kaer Trolde mountain",
+        "link": "/wiki/Kaer_Trolde_mountain"
+      },
+      {
+        "name": "Keira Metz's hut",
+        "link": "/wiki/Keira_Metz%27s_hut"
+      },
+      {
+        "name": "Kimbolt Way",
+        "link": "/wiki/Kimbolt_Way"
+      },
+      {
+        "name": "Kvalheim Isle",
+        "link": "/wiki/Kvalheim_Isle"
+      },
+      {
+        "name": "Lacehalls",
+        "link": "/wiki/Lacehalls"
+      },
+      {
+        "name": "Lake Wyndamer",
+        "link": "/wiki/Lake_Wyndamer"
+      },
+      {
+        "name": "Lakeside Hut",
+        "link": "/wiki/Lakeside_Hut"
+      },
+      {
+        "name": "Larvik",
+        "link": "/wiki/Larvik"
+      },
+      {
+        "name": "Lighthouse",
+        "link": "/wiki/Lighthouse"
+      },
+      {
+        "name": "Lighthouse (Isle of Mists)",
+        "link": "/wiki/Lighthouse_(Isle_of_Mists)"
+      },
+      {
+        "name": "Lindenvale",
+        "link": "/wiki/Lindenvale"
+      },
+      {
+        "name": "Lindenvale tavern",
+        "link": "/wiki/Lindenvale_tavern"
+      },
+      {
+        "name": "Lofoten",
+        "link": "/wiki/Lofoten"
+      },
+      {
+        "name": "Lofoten Cemetery",
+        "link": "/wiki/Lofoten_Cemetery"
+      },
+      {
+        "name": "Loggers' Hut",
+        "link": "/wiki/Loggers%27_Hut"
+      },
+      {
+        "name": "Lornruk",
+        "link": "/wiki/Lornruk"
+      },
+      {
+        "name": "Lovers' Landing",
+        "link": "/wiki/Lovers%27_Landing"
+      },
+      {
+        "name": "Lucian's Windmill",
+        "link": "/wiki/Lucian%27s_Windmill"
+      },
+      {
+        "name": "Lurtch",
+        "link": "/wiki/Lurtch"
+      },
+      {
+        "name": "Lurthen",
+        "link": "/wiki/Lurthen"
+      },
+      {
+        "name": "Marabella's School for Tots",
+        "link": "/wiki/Marabella%27s_School_for_Tots"
+      },
+      {
+        "name": "Marauders' Bridge",
+        "link": "/wiki/Marauders%27_Bridge"
+      },
+      {
+        "name": "Margrave Henckel's house",
+        "link": "/wiki/Margrave_Henckel%27s_house"
+      },
+      {
+        "name": "Marlin Coast",
+        "link": "/wiki/Marlin_Coast"
+      },
+      {
+        "name": "Martin Feuille's Farmstead",
+        "link": "/wiki/Martin_Feuille%27s_Farmstead"
+      },
+      {
+        "name": "Midcopse",
+        "link": "/wiki/Midcopse"
+      },
+      {
+        "name": "Mill (White Orchard)",
+        "link": "/wiki/Mill_(White_Orchard)"
+      },
+      {
+        "name": "Miners' Camp",
+        "link": "/wiki/Miners%27_Camp"
+      },
+      {
+        "name": "Mire Landing",
+        "link": "/wiki/Mire_Landing"
+      },
+      {
+        "name": "Moldavie Residence",
+        "link": "/wiki/Moldavie_Residence"
+      },
+      {
+        "name": "Monster nest",
+        "link": "/wiki/Monster_nest"
+      },
+      {
+        "name": "Mowshurst",
+        "link": "/wiki/Mowshurst"
+      },
+      {
+        "name": "Mudplough",
+        "link": "/wiki/Mudplough"
+      },
+      {
+        "name": "Mulbrydale",
+        "link": "/wiki/Mulbrydale"
+      },
+      {
+        "name": "Nava Isle",
+        "link": "/wiki/Nava_Isle"
+      },
+      {
+        "name": "Nilfgaardian Army Group 'Center' Camp",
+        "link": "/wiki/Nilfgaardian_Army_Group_%27Center%27_Camp"
+      },
+      {
+        "name": "Nilfgaardian Garrison",
+        "link": "/wiki/Nilfgaardian_Garrison"
+      },
+      {
+        "name": "Novigrad",
+        "link": "/wiki/Novigrad"
+      },
+      {
+        "name": "Category:Novigrad",
+        "link": "/wiki/Category:Novigrad"
+      },
+      {
+        "name": "Novigrad Docks",
+        "link": "/wiki/Novigrad_Docks"
+      },
+      {
+        "name": "Novigrad Gate",
+        "link": "/wiki/Novigrad_Gate"
+      },
+      {
+        "name": "Novigrad Morgue",
+        "link": "/wiki/Novigrad_Morgue"
+      },
+      {
+        "name": "Novigrad sewers",
+        "link": "/wiki/Novigrad_sewers"
+      },
+      {
+        "name": "Old signal tower",
+        "link": "/wiki/Old_signal_tower"
+      },
+      {
+        "name": "Old Watchtower",
+        "link": "/wiki/Old_Watchtower"
+      },
+      {
+        "name": "Olena's Grove",
+        "link": "/wiki/Olena%27s_Grove"
+      },
+      {
+        "name": "Oreton",
+        "link": "/wiki/Oreton"
+      },
+      {
+        "name": "Category:Oxenfurt",
+        "link": "/wiki/Category:Oxenfurt"
+      },
+      {
+        "name": "Oxenfurt",
+        "link": "/wiki/Oxenfurt"
+      },
+      {
+        "name": "Oxenfurt Academy",
+        "link": "/wiki/Oxenfurt_Academy"
+      },
+      {
+        "name": "Oxenfurt Chess Club",
+        "link": "/wiki/Oxenfurt_Chess_Club"
+      },
+      {
+        "name": "Oxenfurt Gate",
+        "link": "/wiki/Oxenfurt_Gate"
+      },
+      {
+        "name": "Oxenfurt Harbor",
+        "link": "/wiki/Oxenfurt_Harbor"
+      },
+      {
+        "name": "Oxenfurt Morgue",
+        "link": "/wiki/Oxenfurt_Morgue"
+      },
+      {
+        "name": "Palace of Awakening",
+        "link": "/wiki/Palace_of_Awakening"
+      },
+      {
+        "name": "Palisade",
+        "link": "/wiki/Palisade"
+      },
+      {
+        "name": "Passiflora",
+        "link": "/wiki/Passiflora"
+      },
+      {
+        "name": "Peet's Landing",
+        "link": "/wiki/Peet%27s_Landing"
+      },
+      {
+        "name": "Percival Schuttenbach's Shop",
+        "link": "/wiki/Percival_Schuttenbach%27s_Shop"
+      },
+      {
+        "name": "Pontar (region)",
+        "link": "/wiki/Pontar_(region)"
+      },
+      {
+        "name": "Portside Gate",
+        "link": "/wiki/Portside_Gate"
+      },
+      {
+        "name": "Putrid Grove",
+        "link": "/wiki/Putrid_Grove"
+      },
+      {
+        "name": "Rannvaig",
+        "link": "/wiki/Rannvaig"
+      },
+      {
+        "name": "Ransacked Village",
+        "link": "/wiki/Ransacked_Village"
+      },
+      {
+        "name": "Reardon Manor",
+        "link": "/wiki/Reardon_Manor"
+      },
+      {
+        "name": "Redgill",
+        "link": "/wiki/Redgill"
+      },
+      {
+        "name": "Refugees' Camp",
+        "link": "/wiki/Refugees%27_Camp"
+      },
+      {
+        "name": "Road to Bald Mountain",
+        "link": "/wiki/Road_to_Bald_Mountain"
+      },
+      {
+        "name": "Rogne",
+        "link": "/wiki/Rogne"
+      },
+      {
+        "name": "Rosemary and Thyme",
+        "link": "/wiki/Rosemary_and_Thyme"
+      },
+      {
+        "name": "Royal Palace (Vizima)",
+        "link": "/wiki/Royal_Palace_(Vizima)"
+      },
+      {
+        "name": "Ruined Inn",
+        "link": "/wiki/Ruined_Inn"
+      },
+      {
+        "name": "Ruined Tower",
+        "link": "/wiki/Ruined_Tower"
+      },
+      {
+        "name": "Ruined Watchtower",
+        "link": "/wiki/Ruined_Watchtower"
+      },
+      {
+        "name": "Sarrasin Grange",
+        "link": "/wiki/Sarrasin_Grange"
+      },
+      {
+        "name": "Sawmill (Ard Skellig)",
+        "link": "/wiki/Sawmill_(Ard_Skellig)"
+      },
+      {
+        "name": "Sawmill (White Orchard)",
+        "link": "/wiki/Sawmill_(White_Orchard)"
+      },
+      {
+        "name": "Scoia'tael Trading Camp",
+        "link": "/wiki/Scoia%27tael_Trading_Camp"
+      },
+      {
+        "name": "Seven Cats Inn",
+        "link": "/wiki/Seven_Cats_Inn"
+      },
+      {
+        "name": "Shop (Gildorf)",
+        "link": "/wiki/Shop_(Gildorf)"
+      },
+      {
+        "name": "Sigismund's Bathhouse",
+        "link": "/wiki/Sigismund%27s_Bathhouse"
+      },
+      {
+        "name": "Silverton",
+        "link": "/wiki/Silverton"
+      },
+      {
+        "name": "Skellige",
+        "link": "/wiki/Skellige"
+      },
+      {
+        "name": "Snidhall Isle",
+        "link": "/wiki/Snidhall_Isle"
+      },
+      {
+        "name": "Southern Gate",
+        "link": "/wiki/Southern_Gate"
+      },
+      {
+        "name": "Spikeroog",
+        "link": "/wiki/Spikeroog"
+      },
+      {
+        "name": "Spitfire Bluff",
+        "link": "/wiki/Spitfire_Bluff"
+      },
+      {
+        "name": "St. Gregory's Bridge",
+        "link": "/wiki/St._Gregory%27s_Bridge"
+      },
+      {
+        "name": "Stonecutters' Settlement",
+        "link": "/wiki/Stonecutters%27_Settlement"
+      },
+      {
+        "name": "Strange Cottage",
+        "link": "/wiki/Strange_Cottage"
+      },
+      {
+        "name": "Sund",
+        "link": "/wiki/Sund"
+      },
+      {
+        "name": "Svorlag",
+        "link": "/wiki/Svorlag"
+      },
+      {
+        "name": "Swamp Bint Harbor",
+        "link": "/wiki/Swamp_Bint_Harbor"
+      },
+      {
+        "name": "Tavern (Arinbjorn)",
+        "link": "/wiki/Tavern_(Arinbjorn)"
+      },
+      {
+        "name": "Tavern (Harviken)",
+        "link": "/wiki/Tavern_(Harviken)"
+      },
+      {
+        "name": "Tavern (Larvik)",
+        "link": "/wiki/Tavern_(Larvik)"
+      },
+      {
+        "name": "Tavern (Svorlag)",
+        "link": "/wiki/Tavern_(Svorlag)"
+      },
+      {
+        "name": "Tavern (Urialla Harbor)",
+        "link": "/wiki/Tavern_(Urialla_Harbor)"
+      },
+      {
+        "name": "Temerian Partisan Hideout",
+        "link": "/wiki/Temerian_Partisan_Hideout"
+      },
+      {
+        "name": "Temple Isle",
+        "link": "/wiki/Temple_Isle"
+      },
+      {
+        "name": "Temple of Freyja",
+        "link": "/wiki/Temple_of_Freyja"
+      },
+      {
+        "name": "Tengelstrand Isle",
+        "link": "/wiki/Tengelstrand_Isle"
+      },
+      {
+        "name": "The Alchemy",
+        "link": "/wiki/The_Alchemy"
+      },
+      {
+        "name": "The Bits",
+        "link": "/wiki/The_Bits"
+      },
+      {
+        "name": "The Butcher's Yard theater",
+        "link": "/wiki/The_Butcher%27s_Yard_theater"
+      },
+      {
+        "name": "The Descent",
+        "link": "/wiki/The_Descent"
+      },
+      {
+        "name": "The Golden Sturgeon",
+        "link": "/wiki/The_Golden_Sturgeon"
+      },
+      {
+        "name": "The Kingfisher Inn",
+        "link": "/wiki/The_Kingfisher_Inn"
+      },
+      {
+        "name": "The Mire",
+        "link": "/wiki/The_Mire"
+      },
+      {
+        "name": "The New Port",
+        "link": "/wiki/The_New_Port"
+      },
+      {
+        "name": "The Nowhere Inn",
+        "link": "/wiki/The_Nowhere_Inn"
+      },
+      {
+        "name": "The Old Port",
+        "link": "/wiki/The_Old_Port"
+      },
+      {
+        "name": "The Orphans of Crookback Bog",
+        "link": "/wiki/The_Orphans_of_Crookback_Bog"
+      },
+      {
+        "name": "The Pali Gap Coast",
+        "link": "/wiki/The_Pali_Gap_Coast"
+      },
+      {
+        "name": "Category:The Witcher 3 images - Locations",
+        "link": "/wiki/Category:The_Witcher_3_images_-_Locations"
+      },
+      {
+        "name": "Tir ná Lia",
+        "link": "/wiki/Tir_n%C3%A1_Lia"
+      },
+      {
+        "name": "Toderas",
+        "link": "/wiki/Toderas"
+      },
+      {
+        "name": "Tomira's hut",
+        "link": "/wiki/Tomira%27s_hut"
+      },
+      {
+        "name": "Tor Gvalch'ca",
+        "link": "/wiki/Tor_Gvalch%27ca"
+      },
+      {
+        "name": "Trail to Yngvar's Fang",
+        "link": "/wiki/Trail_to_Yngvar%27s_Fang"
+      },
+      {
+        "name": "Tretogor Gate",
+        "link": "/wiki/Tretogor_Gate"
+      },
+      {
+        "name": "Triss' hideout",
+        "link": "/wiki/Triss%27_hideout"
+      },
+      {
+        "name": "Triss' house (Novigrad)",
+        "link": "/wiki/Triss%27_house_(Novigrad)"
+      },
+      {
+        "name": "Troll Bridge",
+        "link": "/wiki/Troll_Bridge"
+      },
+      {
+        "name": "Trottheim",
+        "link": "/wiki/Trottheim"
+      },
+      {
+        "name": "Udalryk's old family home",
+        "link": "/wiki/Udalryk%27s_old_family_home"
+      },
+      {
+        "name": "Ulula's Needle",
+        "link": "/wiki/Ulula%27s_Needle"
+      },
+      {
+        "name": "Undvik",
+        "link": "/wiki/Undvik"
+      },
+      {
+        "name": "Urialla Harbor",
+        "link": "/wiki/Urialla_Harbor"
+      },
+      {
+        "name": "Urialla Harbor arena",
+        "link": "/wiki/Urialla_Harbor_arena"
+      },
+      {
+        "name": "Urskar",
+        "link": "/wiki/Urskar"
+      },
+      {
+        "name": "Ursten",
+        "link": "/wiki/Ursten"
+      },
+      {
+        "name": "Var Attre Villa",
+        "link": "/wiki/Var_Attre_Villa"
+      },
+      {
+        "name": "Vegelbud Residence",
+        "link": "/wiki/Vegelbud_Residence"
+      },
+      {
+        "name": "Velen",
+        "link": "/wiki/Velen"
+      },
+      {
+        "name": "Vespula's laundry",
+        "link": "/wiki/Vespula%27s_laundry"
+      },
+      {
+        "name": "Vildenvert's farm",
+        "link": "/wiki/Vildenvert%27s_farm"
+      },
+      {
+        "name": "Vilmerius Hospital",
+        "link": "/wiki/Vilmerius_Hospital"
+      },
+      {
+        "name": "Vivaldi Bank",
+        "link": "/wiki/Vivaldi_Bank"
+      },
+      {
+        "name": "Vizima",
+        "link": "/wiki/Vizima"
+      },
+      {
+        "name": "Voytek's hut",
+        "link": "/wiki/Voytek%27s_hut"
+      },
+      {
+        "name": "Vulpine Woods",
+        "link": "/wiki/Vulpine_Woods"
+      },
+      {
+        "name": "Wastrel Manor",
+        "link": "/wiki/Wastrel_Manor"
+      },
+      {
+        "name": "Western Gate",
+        "link": "/wiki/Western_Gate"
+      },
+      {
+        "name": "Whale Graveyard",
+        "link": "/wiki/Whale_Graveyard"
+      },
+      {
+        "name": "Wheat Fields",
+        "link": "/wiki/Wheat_Fields"
+      },
+      {
+        "name": "White Eagle Fort",
+        "link": "/wiki/White_Eagle_Fort"
+      },
+      {
+        "name": "White Orchard",
+        "link": "/wiki/White_Orchard"
+      },
+      {
+        "name": "Category:White Orchard",
+        "link": "/wiki/Category:White_Orchard"
+      },
+      {
+        "name": "White Orchard cemetery",
+        "link": "/wiki/White_Orchard_cemetery"
+      },
+      {
+        "name": "White Orchard inn",
+        "link": "/wiki/White_Orchard_inn"
+      },
+      {
+        "name": "Whoreson Junior's arena",
+        "link": "/wiki/Whoreson_Junior%27s_arena"
+      },
+      {
+        "name": "Whoreson Junior's casino",
+        "link": "/wiki/Whoreson_Junior%27s_casino"
+      },
+      {
+        "name": "Whoreson Junior's hideout",
+        "link": "/wiki/Whoreson_Junior%27s_hideout"
+      },
+      {
+        "name": "Whoreson Junior's mansion",
+        "link": "/wiki/Whoreson_Junior%27s_mansion"
+      },
+      {
+        "name": "Widows' Grotto",
+        "link": "/wiki/Widows%27_Grotto"
+      },
+      {
+        "name": "Wild Shore",
+        "link": "/wiki/Wild_Shore"
+      },
+      {
+        "name": "Willis' forge",
+        "link": "/wiki/Willis%27_forge"
+      },
+      {
+        "name": "Winespring Grange",
+        "link": "/wiki/Winespring_Grange"
+      },
+      {
+        "name": "Witch Hunter Barracks Outpost",
+        "link": "/wiki/Witch_Hunter_Barracks_Outpost"
+      },
+      {
+        "name": "Woesong Bridge",
+        "link": "/wiki/Woesong_Bridge"
+      },
+      {
+        "name": "Wolven Glade",
+        "link": "/wiki/Wolven_Glade"
+      },
+      {
+        "name": "Yantra",
+        "link": "/wiki/Yantra"
+      },
+      {
+        "name": "Yngvar's Fang",
+        "link": "/wiki/Yngvar%27s_Fang"
+      },
+      {
+        "name": "Yustianna's Grotto",
+        "link": "/wiki/Yustianna%27s_Grotto"
+      },
+      {
+        "name": "Zerrikanian Spice Company",
+        "link": "/wiki/Zerrikanian_Spice_Company"
+      }
+    ]
+  },
+  {
+    "name": "Weapons",
+    "link": "https://witcher.fandom.com/wiki/Category:Weapons",
+    "submenu": [
+      {
+        "name": "Category:The Witcher weapons",
+        "link": "/wiki/Category:The_Witcher_weapons"
+      },
+      {
+        "name": "Balmur",
+        "link": "/wiki/Balmur"
+      },
+      {
+        "name": "Bow",
+        "link": "/wiki/Bow"
+      },
+      {
+        "name": "Club",
+        "link": "/wiki/Club"
+      },
+      {
+        "name": "Gabriel (weapon)",
+        "link": "/wiki/Gabriel_(weapon)"
+      },
+      {
+        "name": "Gveir",
+        "link": "/wiki/Gveir"
+      },
+      {
+        "name": "Gwyhyr",
+        "link": "/wiki/Gwyhyr"
+      },
+      {
+        "name": "Halberd",
+        "link": "/wiki/Halberd"
+      },
+      {
+        "name": "Jaskółka",
+        "link": "/wiki/Jask%C3%B3%C5%82ka"
+      },
+      {
+        "name": "Knout",
+        "link": "/wiki/Knout"
+      },
+      {
+        "name": "Lamia (weapon)",
+        "link": "/wiki/Lamia_(weapon)"
+      },
+      {
+        "name": "Mace",
+        "link": "/wiki/Mace"
+      },
+      {
+        "name": "Milva's bow",
+        "link": "/wiki/Milva%27s_bow"
+      },
+      {
+        "name": "Missile-hurler",
+        "link": "/wiki/Missile-hurler"
+      },
+      {
+        "name": "Orion",
+        "link": "/wiki/Orion"
+      },
+      {
+        "name": "Sihil",
+        "link": "/wiki/Sihil"
+      },
+      {
+        "name": "Silver sword",
+        "link": "/wiki/Silver_sword"
+      },
+      {
+        "name": "Steel sword",
+        "link": "/wiki/Steel_sword"
+      },
+      {
+        "name": "Sword",
+        "link": "/wiki/Sword"
+      },
+      {
+        "name": "Taldaga",
+        "link": "/wiki/Taldaga"
+      },
+      {
+        "name": "The Witcher Monster Slayer swords",
+        "link": "/wiki/The_Witcher_Monster_Slayer_swords"
+      },
+      {
+        "name": "Category:The Witcher 2 weapons",
+        "link": "/wiki/Category:The_Witcher_2_weapons"
+      },
+      {
+        "name": "Category:The Witcher 3 weapons",
+        "link": "/wiki/Category:The_Witcher_3_weapons"
+      },
+      {
+        "name": "Zefhar",
+        "link": "/wiki/Zefhar"
+      },
+      {
+        "name": "Zireael (sword)",
+        "link": "/wiki/Zireael_(sword)"
+      }
+    ]
+  }
+]
