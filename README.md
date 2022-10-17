@@ -1,1 +1,1 @@
-![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Finterfaceingame.com%2Fgames%2Fthe-witcher-3-wild-hunt%2F&psig=AOvVaw1iFg7aPG_cw7ZXuQmWWw2M&ust=1666109553518000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIDj0_nT5_oCFQAAAAAdAAAAABAE)
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mass_Effect_logo.png/799px-Mass_Effect_logo.png)
